@@ -1,0 +1,196 @@
+h2{
+    display: flex;
+    gap: 10px;
+}
+body{
+  background: #fff;
+}
+
+.leyenda {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin-top: 50px;
+  }
+  
+  .item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .color-box {
+    width: 16px;
+    height: 16px;
+    margin-right: 8px;
+    display: inline-block;
+    border-radius: 2px;
+  }
+  
+  .nacional {
+    background-color: #f4c41c; /* Amarillo */
+  }
+  
+  .regional {
+    background-color: #15352d; /* Verde oscuro */
+  }
+  
+  .local {
+    background-color: #1b6666; /* Verde azulado */
+  }
+
+  .graficas{
+    background:#f0f0f0;
+    padding: 20px 10px !important;
+    margin: 0 !important;
+    
+  }
+  
+  .tt {
+    text-align: center;
+    font-weight: 700;
+    width: 100%;
+    display: block;
+}
+
+.chart-container {
+  width: 300px;
+  max-width: 500px;     /* o el tamaño que desees */
+  aspect-ratio: 1 / 1;   /* mantiene la forma cuadrada */
+  margin: auto;
+}
+
+.bder1{
+  position: relative;
+}
+.bder1::after{
+  content: "";
+  width: 1px;
+  background: #000;
+  height: 100%;
+  position: absolute;
+  top: -10px;
+  left: -10px;
+
+}
+.bder1::before {
+  content: "Áreas protegidas";
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  top: 50%;
+  left: -186px;
+  width: 164px;
+  text-align: right !important;
+  transform: translate(0%, -50%);
+ }
+
+ .bder2{
+  position: relative;
+}
+.bder2::after{
+  content: "";
+  width: 1px;
+  background: #000;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: -10px;
+
+}
+.bder2::before {
+  content: "Resguardos indígenas";
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  top: 50%;
+  left: -186px;
+  width: 164px;
+  text-align: right !important;
+  transform: translate(0%, -50%);
+ }
+
+
+
+.secundario {
+  background:#f0f0f0;
+  min-height: 100px;
+  margin-top: 20px;
+}
+
+tspan.ttbigcir {
+  font-size: 35px;
+}
+tspan.ttbigcir2 {
+  font-size:20px;
+}
+.cajasinter {
+  /* border: 1px solid red; */
+  height: 100px;
+  display: flex;
+  padding: 0 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  align-items: center;
+}
+.cajasinter div:first-child {
+  flex: 0 10%;
+  background: #d1d1d1;
+  font-size: 29px;
+  display: flex;
+  align-items: center;
+  border-radius: 72%;
+  font-weight: 500;
+  height: 100px;
+}
+.cajasinter div:nth-child(2){
+  flex:1;
+  font-size: 12px;
+  line-height: 12px;
+}
+
+.secundario {
+  /* border: 1px solid red; */
+  
+  display: flex;
+  padding: 0 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  align-items: center;
+}
+.secundario div:first-child {
+  flex: 1;
+  font-size: 29px;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  font-weight: 400;
+  flex-direction: column;
+  gap: 10px;
+  border-right: 1px solid #000;
+}
+.ttsub span {
+  
+  font-size: 30px;
+  font-weight:600;
+}
+
+
+
+.secundario div:nth-child(2){
+  flex:1;
+  font-size: 16px;
+  line-height: 12px;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+}
+.ttsub2 span {
+  
+  font-size:20px;
+  font-weight:600;
+}

@@ -1,0 +1,107 @@
+        .concentric-chart {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            
+        }
+        .dona-container {
+            position: relative;
+            width: min(500px, 100%);
+            overflow: visible;
+        }
+
+        .dona-container img {
+            width: 100%;
+            height: auto;
+            margin: 0;
+        }
+
+        .info-dona-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .info-dona-container h4 {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 1.125rem;
+            text-align: center;
+            margin: 0;
+            width: 35%;
+        }
+        .info-dona-container h5 {
+            position: absolute;
+            transform: translate(-50%, -50%);
+            font-size: 0.875rem;
+          	line-height: 1.2 !important;
+            text-align: center;
+            width: 30%;
+            margin: 0;
+        }
+        .info-dona-container h5.subtit1 {
+            top: 10%;
+            left: 73%;
+        }
+        .info-dona-container h5.subtit2 {
+            top: 26%;
+            left: 87%;
+        }
+        .info-dona-container h5.subtit3 {
+            top: 50%;
+            left: 93%;
+        }
+        .info-dona-container h5.subtit4 {
+            top: 73%;
+            left: 89%;
+        }
+        .info-dona-container h5.subtit5 {
+            top: 91%;
+            left: 50%;
+        }
+        .info-dona-container h5.subtit6 {
+            top: 75%;
+            left: 12%;
+        }
+        .info-dona-container h5.subtit7 {
+            top: 50%;
+            left: 7%;
+        }
+        .info-dona-container h5.subtit8 {
+            top: 26%;
+            left: 12%;
+        }
+        .info-dona-container h5.subtit9 {
+            top: 10%;
+            left: 30%;
+        }
+
+        .info-dona-container img {
+            position: absolute;
+            width: 40%;
+            height: auto;
+            margin: 0;
+        }
+        .info-dona-container img.ilustracion-1 {
+            top: 75%;
+            left: 69%;
+        }
+        .info-dona-container img.ilustracion-2 {
+            top: 83%;
+            left: -6%;
+        }
+        .info-dona-container img.ilustracion-3 {
+            top: 9%;
+            left: -37%;
+        }
+        .info-dona-container img.ilustracion-4 {
+            top: -33%;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 45%;
+        }

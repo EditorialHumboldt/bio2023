@@ -1,0 +1,60 @@
+        .legend {
+            
+            font-size: 0.9rem;
+            line-height: 1.4;
+        }
+
+        .legend-group {
+            margin-bottom: 1rem;
+        }
+
+        .legend-heading {
+            cursor: pointer;
+            font-weight: 700;
+        }
+
+        .legend-list,
+        .municipios-list {
+            margin: 0.5rem 0 0;
+            padding-left: 1.25rem;
+            list-style: none;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin: 0.25rem 0;
+        }
+
+        .legend-icon {
+            width: 18px;
+            height: 18px;
+            flex: 0 0 18px;
+            object-fit: contain;
+        }
+
+        .municipios-list {
+            list-style: lower-alpha;
+            padding-left: 1.5rem;
+        }
+        .contenedor-mapa {
+            position: relative;
+            width: 100%;
+            height: auto;
+        }
+        .mapa-col {
+            position: absolute;
+            top: 0;
+            left: -5%;
+            width: min(200px, 25%);
+            border-radius: 8px;
+            z-index: 1;
+          background: transparent;
+          mix-blend-mode: multiply;
+        }
+        .mapa-col img {
+            width: 100%;
+            height: auto;
+          border-radius: 8px;
+        }

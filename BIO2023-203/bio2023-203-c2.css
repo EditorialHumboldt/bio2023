@@ -1,0 +1,9 @@
+.bio2023-203-vaca {
+max-width: 360px;
+}
+#bio2023-203-chart-1 svg > rect {
+  fill:transparent;
+}
+#bio2023-203-chart-1 svg text {
+font-family: rubik, sans-serif;
+}

@@ -1,0 +1,103 @@
+        /* --- contenedor general --- */
+.timeline-scroll {
+overflow: auto;
+}
+       .bio-timeline {
+    position: relative;
+    display: flex;
+    gap: 2rem;
+    padding: 3rem 0 3rem;
+    min-width: calc(200px * 9 + 20px * 8);
+}
+
+        /* línea base */
+        .bio-timeline::before {
+            /*content: "";*/
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: #008f8d;
+            /* color corporativo */
+        }
+
+        /* --- columna por año --- */
+        .tl-year {
+            position: relative;
+            display: flex;
+            flex-direction: column-reverse;
+            /* eventos arriba, año + punto abajo */
+            align-items: center;
+            min-height: 280px;
+            /* garantiza espacio para los eventos */
+        }
+
+        /* punto sobre la base */
+        .tl-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: #f39200;
+            position: absolute;
+            bottom: -12px;
+            /* mitad del alto para centrar en la línea */
+        }
+
+        /* etiqueta de año */
+        .tl-year-label {
+            font-weight: 700;
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+            text-align: center;
+        }
+
+        /* lista de eventos */
+        .tl-events {
+            list-style: none;
+            margin: 0 0 2rem 0;
+            /* separa de la base */
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            gap: 1.25rem;
+            align-items: flex-start;
+        }
+
+        /* evento individual */
+        .tl-events li {
+            width: 200px;
+            text-align: center;
+            line-height: 1.25;
+          	display: flex;
+          	gap: 12px;
+          	text-align: left;
+          	align-items: center;
+          	font-size: 0.875rem;
+        }
+
+        /* ícono circular negro */
+        .tl-events img {
+            width: 32px;
+            height: 32px;
+            object-fit: contain;
+            border-radius: 50%;
+            background: #000;
+            padding: 8px;
+            margin: 0;
+        }
+.tl-events span {
+background: #f3f3f3;
+}
+
+        /* línea vertical (pseudo-elemento) */
+        .tl-year::before {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: calc(50% - 1px);
+            width: 2px;
+            height: 100%;
+            background: #d9d9d9;
+            z-index: -1;
+        }

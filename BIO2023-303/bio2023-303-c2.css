@@ -1,0 +1,41 @@
+#bio2023-layerMap-ecorregion {
+position:relative;
+}
+#bio2023-layerMap-ecorregion-filters {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+  max-width: 240px;
+}
+
+#bio2023-layerMap-ecorregion-filters label {
+  font-size: 0.875rem;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+#bio2023-layerMap-ecorregion-filters input[type="checkbox"] {
+  accent-color: #79AB2B;
+}
+#bio2023-layerMap-ecorregion-content > img {
+    top: 3px;
+    position: relative;
+}
+.mapa-col {
+            position: absolute;
+            bottom: 0;
+            right: 8%;
+            width: 160px;
+
+           
+            border-radius: 12px;
+            background: transparent;
+          mix-blend-mode: multiply;
+        }

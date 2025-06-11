@@ -1,0 +1,16 @@
+#bio2023-101-chart_4 svg {
+    overflow: visible;
+}
+
+#chart_4 {
+    position: relative;
+    text-align:center;
+  margin-top: 48px;
+}
+#chart_4 .legend {
+margin-top: -48px!important;
+}
+#bio2023-101-map {
+  max-width: 600px;
+  margin: 48px auto  0;
+}

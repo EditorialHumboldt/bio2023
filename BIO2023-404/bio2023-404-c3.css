@@ -1,0 +1,12 @@
+h2 {
+    display: flex;
+    gap: 10px;
+}
+
+.caj {
+    background-image: url(https://reporte.humboldt.org.co/assets/img/2023/4/404/bio2023-404-mercado-peces.png) !important;
+    background-size: contain !important;
+    background-position: left bottom !important;
+    background-repeat: no-repeat !important;
+    min-height: 100vh !important;
+ }

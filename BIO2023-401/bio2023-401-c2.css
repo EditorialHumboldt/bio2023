@@ -1,0 +1,39 @@
+.bio2023-401-cont {
+	background: #ffffff;
+}
+.bio2023-401-cont::after {
+  	content:"";
+	background: #e7e2d2;
+ 	height: 100%;
+  	width: 50%;
+  	border-radius: 50vh 0 0 0;
+  	right: 0;
+  	top: 0;
+  	display: block;
+  	z-index: 1;
+  	position: absolute;
+}
+.bio2023-401-cont > div {
+	position: relative;
+  	z-index: 2;
+}
+.bio2023-401a > div {
+	float: initial;
+  	margin: 0 auto;
+  	position: relative;
+}
+.bio2023-401a img {
+	width: auto;
+  	max-height: 75vh;
+}
+.bio2023-401a .mapa-col {
+            position: absolute;
+            top: 200px;
+            left: 0;
+            width: 140px;
+
+            
+            border-radius: 12px;
+            background: transparent;
+          mix-blend-mode: multiply;
+        }

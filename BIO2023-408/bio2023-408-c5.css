@@ -1,0 +1,103 @@
+:root {
+            --gris: #6B6B6B;
+            --bg: #F7F8FA;
+            --radius: 8px;
+        }
+
+        .layout-conflictos {
+            display: grid;
+            grid-template-columns: 260px 1fr;
+            gap: 1rem;
+          margin-top: 48px;
+        }
+
+        .filters {
+            font-size: .9rem;
+          text-align: left;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: .25rem;
+            padding: .5rem 0;
+        }
+
+        .filter-group input {
+            display: none;
+        }
+
+        .filter-group label {
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: .5rem;
+          	color: rgb(34, 34, 34) !important;
+        }
+
+        .filter-group label::before {
+            /* custom check */
+            content: "";
+            width: 1rem;
+            height: 1rem;
+            border: 1px solid var(--gris);
+            border-radius: 4px;
+            display: inline-block;
+        }
+
+        .filter-group input:checked+label::before {
+            background: #79AB2B;
+        }
+
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 0.5rem;
+        }
+
+        .card {
+            background: #fff;
+            border-radius: var(--radius);
+            padding: 1.25rem;
+            display: flex;
+            flex-direction: column;
+            gap: .75rem;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, .08);
+         	height: initial;
+          	
+        }
+
+        .card h4 {
+            margin: 0;
+            font-size: 1.05rem;
+            font-weight: 700;
+            line-height: 1.25;
+        }
+
+        .meta {
+            font-size: .85rem;
+            color: var(--gris);
+          margin: 0;
+        }
+
+        .actors {
+            display: flex;
+            gap: .25rem;
+            flex-wrap: wrap;
+            margin-top: .5rem;
+        }
+
+        .actors img {
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+        }
+#clearFilters {
+	background:  #695da6;
+  color: white;
+  border: none;
+  font-family: Rubik, sans-serif;
+  margin-top: 2rem;
+  padding: 4px 8px;
+  border-radius: 4px;
+}

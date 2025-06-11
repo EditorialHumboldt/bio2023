@@ -1,0 +1,20 @@
+.bio2023-401b .mapa-col {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 120px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, .1);
+  border-radius: 12px;
+  background: white;
+}
+.bio2023-401b > div {
+	position: relative;
+}
+.bio2023-401b h2 {
+margin-bottom: 24px;
+}
+.miPez {
+	width: 100%;
+  margin-top: 48px;
+  	max-width: 460px;
+}

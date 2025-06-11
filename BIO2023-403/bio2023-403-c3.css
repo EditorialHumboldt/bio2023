@@ -1,0 +1,161 @@
+h2 {
+    display: flex;
+    gap: 10px;
+}
+.informacion {
+    display: flex;
+    gap: 35px;
+    align-items: center;
+    border-top: 1px solid #000;
+    padding: 10px 0 10px;
+    border-bottom: 1px solid #000;
+    max-width: 550px;
+}
+.informacion span {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+ 
+/* ----------------------------------------------- */
+.contenedor-valores {
+    width: 50%;
+    float: left;
+    padding: 1rem;
+    box-sizing: border-box;
+  }
+  
+  .valores-titulo h4 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .categorias {
+    margin-bottom: 1rem;
+  }
+ 
+  
+ 
+  
+  .botones-valores {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .valor-btn {
+    text-align: left;
+    padding: 0.7rem;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s, border-left 0.3s;
+    width: 100%;
+    border-radius: 10px;
+}
+  .valor-btn:hover {
+    background: #e0e0e0;
+  }
+  .valor-btn.activo {
+    background: #AEBC14;
+  }
+  .imagen-derecha {
+    width: 48%;
+    float: right;
+    text-align: center;
+  }
+  .imagen-derecha img {
+    max-width: 100%;
+    height: auto;
+  }
+/* ------------------------------------------------------------   */
+
+
+.valores-titulo i {
+    background: #000000;
+    width: 21px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    border-radius: 52px;
+    font-style: normal;
+    font-size: 13px;
+    font-family: math;
+}
+.valores-titulo {
+    display: flex;
+}
+.valores-titulo p {
+    display: flex !important;
+    gap: 10px;
+}
+
+/* ----------------------------iconos ------------------------- */
+
+span.icono img {
+    width: 25px;
+    height: 100%;
+    margin: 0;
+}
+button.valor-btn span {
+ 
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-left: 35px;
+    position: relative;
+}
+button.valor-btn span::after {
+  content: "";
+  width: 25px;
+  height: 25px;
+  background: url(https://reporte.humboldt.org.co/assets/img/2023/4/403/bio2023-403-corazon.png);
+  left: -30px;
+  top: 0;
+  position: absolute;
+  background-size: cover;
+  background-repeat: no-repeat;
+    
+}
+button.valor-btn p {
+ margin-left: 35px;
+    position: relative;
+ 
+}
+button.valor-btn p::after {
+    content: "";
+    width: 14px;
+    height: 15px;
+    background: url(https://reporte.humboldt.org.co/assets/img/2023/4/403/bio2023-403-asterisco.png);
+    left: -24px;
+    top: 0;
+    position: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+ #corazon span::after {
+    background: url(https://reporte.humboldt.org.co/assets/img/2023/4/403/bio2023-403-corazon.png);
+    background-size: cover;
+    }
+
+#mariposa span::after{
+    background: url(https://reporte.humboldt.org.co/assets/img/2023/4/403/bio2023-403-mariposa.png);
+    background-size: cover;
+    }
+
+   #persona span::after{
+        background: url(https://reporte.humboldt.org.co/assets/img/2023/4/403/bio2023-403-persona.png);
+        background-size: cover;
+        }
+        .imagen-derecha{
+            position: relative;
+        }
+        .imagen-derecha::after {
+            content: "";
+            width: 190px;
+            height: 80px;
+            background: url(https://reporte.humboldt.org.co/assets/img/2023/4/403/bio2023-403-frecuencia-valor2.png);
+            right: 30px;
+            bottom: 30px;
+            position: absolute;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }

@@ -1,0 +1,114 @@
+body{
+    min-height: 100vh;
+ }
+
+h2 {
+    display: flex;
+    gap: 10px;
+}
+.col-dt-4.medio {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+/* ------------------------------------------------------------------- */
+.map-container {
+    position: relative;
+    max-width: 75vh;
+    margin: 0 auto;
+  }
+  .map-container > img {
+    max-width: 100%;
+  }
+  .map-layers {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .map-layers img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      opacity: 1;
+      transition: opacity 0.3s ease;
+      object-fit: contain;
+  }
+  .map-filters input {
+        display: none;
+  }
+  .map-filters label {
+      position: relative;
+      
+      margin: 0.35rem 0;
+      display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        cursor: pointer;
+  }
+  .map-filters label:before {
+      content: "";
+      border-radius: 4px;
+      width: 1.5rem;
+      height: 1.5rem;
+      background-color: rgba(0, 0, 0, 0.5);
+      transition: opacity 0.3s ease;
+      background-size: conatain;
+      background-repeat: no-repeat;
+        background-position: center;
+    display:none;
+  }
+  .map-filters input:checked + label:before {
+      background:  #f59c00;
+  }
+  
+  #img-transformada, #img-natural {
+    z-index: 20;
+  }
+  #img-general  {
+     z-index:  0;
+  }
+
+ #img-biorregion, #img-sirap, #img-protegidas, #img-resguardos{
+  z-index: 50;
+ }
+
+b.biorregion {
+    width: 15px;
+    height: 15px;
+    background: #ebd842;
+}
+
+b.sirap{
+      width: 15px;
+    height: 15px;
+    background: #b84593;
+}
+
+b.protegidas{
+      width: 15px;
+    height: 15px;
+    background: red;
+}
+
+b.resguardos{
+      width: 15px;
+    height: 15px;
+    background:#232517;
+}
+b.natural{
+      width: 15px;
+    height: 15px;
+    background:#a6ceab;
+}
+b.transformada {
+      width: 15px;
+    height: 15px;
+    background:#442b12;
+}

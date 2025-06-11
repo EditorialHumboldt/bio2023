@@ -1,0 +1,35 @@
+#bio2023-302-arbol {
+            max-width: 960px; 
+            margin: 0 auto;
+        }
+        #bio2023-302-arbol .convenciones {
+            margin-top: 24px;
+        }
+        #bio2023-302-arbol .convenciones ul {
+            list-style-type: none;
+            display: flex;
+            gap: 8px;
+            justify-content: center;
+        }
+        #bio2023-302-arbol .convenciones ul span {
+            font-size: 2em;
+            position: relative;
+            top: 0.05em
+        }
+        #bio2023-302-arbol .convenciones ul li {
+            font-size: 1em;
+        }
+        #bio2023-302-arbol .titulos {
+            display: flex;
+            justify-content: space-between;
+            
+        }
+        #bio2023-302-arbol .titulos h6 {
+            width: 25%;
+            text-align: center;
+            font-size: 18px;
+            font-weight: 700;
+        }
+.highcharts-background {
+fill: transparent !important;
+}

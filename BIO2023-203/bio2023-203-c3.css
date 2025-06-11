@@ -1,0 +1,35 @@
+#bio2023-203-chart-2 {
+position: relative;
+}
+#bio2023-203-chart-2 .contenido {
+  position: absolute;
+  top: 10vw;
+  width: 100%;
+  left: 0;
+}
+#bio2023-203-chart-2 .contenido > div {
+	max-width: 1800px;
+  	margin: 0 auto;
+}
+#bio2023-203-chart-2 .hotspots img {
+	width: 100%;
+}
+#bio2023-203-chart-2 .hotspot .icon {
+	background-color: #5b401c;
+}
+#bio2023-203-chart-2 .hotspot:nth-child(1) {
+	top: 53%;
+  	left: 41%;
+}
+#bio2023-203-chart-2 .hotspot:nth-child(2) {
+	top: 72%;
+  	left: 57%;
+}
+#bio2023-203-chart-2 .hotspot:nth-child(3) {
+	top: 42%;
+  	left: 81%;
+}
+#bio2023-203-chart-2 .hotspot:nth-child(1) .hotspot-content,
+#bio2023-203-chart-2 .hotspot:nth-child(2) .hotspot-content {
+width: min(80vw, 520px);
+}

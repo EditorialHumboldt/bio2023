@@ -1,0 +1,50 @@
+.bio2023-301-mapa {
+            position: relative;
+            
+        }
+        .bio2023-301-mapa ul {
+            position: absolute;
+            top: 0;
+            left: 0;
+            list-style: none;
+            
+        }
+        .bio2023-301-mapa ul li {
+            position: relative;
+            padding: 8px 0 8px 20px;
+        }
+        .bio2023-301-mapa ul li:before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 0;
+            width: 16px;
+            height: 16px;
+            
+            transform: translateY(-50%);
+        }
+        .bio2023-301-mapa ul li:nth-child(1):before {
+            background-color: #21B061;
+        }
+        .bio2023-301-mapa ul li:nth-child(2):before {
+            background-color: #000;
+        }
+        .bio2023-301-mapa .mapa-col {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            width: 160px;
+            
+            
+            border-radius: 12px;
+           background: transparent;
+          mix-blend-mode: multiply;
+        }
+        .bio2023-301-mapa .mapa-principal {
+            width: calc(100% - 300px);
+            display: block;
+            margin: 0 auto;
+        }
+.highcharts-background {
+            fill: transparent;
+        }

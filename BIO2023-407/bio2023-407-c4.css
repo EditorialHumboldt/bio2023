@@ -1,0 +1,11 @@
+h2{
+    display: flex;
+    gap: 10px;
+}
+.back1 {
+    background: url(https://reporte.humboldt.org.co/assets/img/2023/4/407/bio2023-407-meta-lograda.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: contain;
+    background-position: left bottom;
+}

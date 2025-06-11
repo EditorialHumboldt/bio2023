@@ -1,0 +1,56 @@
+{
+    "chart_1": [
+      { "category": "Muy baja", "percentage": 67, "km": 51532, "color": "#45AE50" },
+      { "category": "Baja", "percentage": 16, "km": 12306, "color": "#9EC64A" },
+      { "category": "Media", "percentage": 9, "km": 6922, "color": "#FAE55D" },
+      { "category": "Alta", "percentage": 5, "km": 3846, "color": "#F19636" },
+      { "category": "Muy alta", "percentage": 3, "km": 2307, "color": "#E04D3F" }
+    ],
+    "chart_2": {
+    "name": "Fauna observada",
+    "children": [
+      { "name": "Anfibio", "percentage": 3.06, "color": "#14C3B1", "icon": "https://reporte.humboldt.org.co/assets/img/2023/2/204/bio2023-204-icono-anfibios.png",
+        "children": [
+          { "name": "Rhinella marina", "percentage": 1.81, "color": "#43E0CF" },
+          { "name": "Rhinella horribilis", "percentage": 0.29, "color": "#43E0CF" },
+          { "name": "Bufo sp.", "percentage": 0.38, "color": "#43E0CF" }
+        ]
+      },
+      { "name": "Ave", "percentage": 14.71, "color": "#E15E20", "icon": "https://reporte.humboldt.org.co/assets/img/2023/2/204/bio2023-204-icono-aves.png",
+        "children": [
+          { "name": "Coragyps atratus", "percentage": 2.10, "color": "#EC7A44" },
+          { "name": "Caracara cheriway", "percentage": 0.76, "color": "#EC7A44" },
+          { "name": "Jacana jacana", "percentage": 0.76, "color": "#EC7A44" }
+        ]
+      },
+      { "name": "Mamífero", "percentage": 54.35, "color": "#F0A000", "icon": "https://reporte.humboldt.org.co/assets/img/2023/2/204/bio2023-204-icono-mamiferos.png",
+        "children": [
+          { "name": "Didelphis marsupialis", "percentage": 11.94, "color": "#FDCD25" },
+          { "name": "Tamandua mexicana", "percentage": 8.69, "color": "#FDCD25" },
+          { "name": "Cerdocyon thous", "percentage": 7.74, "color": "#FDCD25" },
+          { "name": "Tamandua tetradactyla", "percentage": 7.35, "color": "#FDCD25" },
+          { "name": "Myrmecophaga tridactyla", "percentage": 4.87, "color": "#FDCD25" }
+        ]
+      },
+      { "name": "Reptil", "percentage": 26.07, "color": "#9CB91A", "icon": "https://reporte.humboldt.org.co/assets/img/2023/2/204/bio2023-204-icono-reptil.png",
+        "children": [
+          { "name": "Caiman crocodilus", "percentage": 6.30, "color": "#D3E667" },
+          { "name": "Iguana iguana", "percentage": 4.78, "color": "#D3E667" },
+          { "name": "Eunectes murinus", "percentage": 1.62, "color": "#D3E667" },
+          { "name": "Boa constrictor", "percentage": 1.43, "color": "#D3E667" }
+        ]
+      }
+    ]
+  },
+  "chart_3": [
+    {  "nombre_comun":"Cusumbo andino", "nombre": "Nasuella olivacea", "clase": "Mamífero", "registros": 3, "icon": "https://reporte.humboldt.org.co/assets/img/2023/2/204/bio2023-204-icono-mamiferos.png" },
+    { "nombre_comun":"Turpial oriental","nombre": "Sturnella magna", "clase": "Ave", "registros": 1, "icon": "https://reporte.humboldt.org.co/assets/img/2023/2/204/bio2023-204-icono-aves.png" },
+    { "nombre_comun":"Tigrillo","nombre": "Leopardus wiedii", "clase": "Mamífero", "registros": 1, "icon": "https://reporte.humboldt.org.co/assets/img/2023/2/204/bio2023-204-icono-mamiferos.png" }
+  ],
+  "chart_4": [
+    { "nombre_comun":"Hormiguero gigante","nombre": "Myrmecophaga tridactyla", "clase": "Mamífero", "registros": 51, "icon": "https://reporte.humboldt.org.co/assets/img/2023/2/204/bio2023-204-icono-mamiferos.png" },
+    { "nombre_comun":"Serpiente tierrera","nombre": "Atractus nicefori", "clase": "Reptil", "registros": 3, "icon": "https://reporte.humboldt.org.co/assets/img/2023/2/204/bio2023-204-icono-reptil.png" },
+    { "nombre_comun":"Tucán pechiblanco","nombre": "Ramphastos tucanus", "clase": "Ave", "registros": 1, "icon": "https://reporte.humboldt.org.co/assets/img/2023/2/204/bio2023-204-icono-aves.png" }
+  ]
+  }
+  

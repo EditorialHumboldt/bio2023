@@ -1,0 +1,456 @@
+{
+  "chart_1": {
+    "name": "Total",
+    "value": 3234966,
+    "children": [
+      {
+        "name": "Animales",
+        "value": 2750537,
+        "children": [
+          {
+            "name": "Vertebrados",
+            "value": 2566837,
+            "children": [
+              {
+                "name": "Aves",
+                "value": 2206525
+              },
+              {
+                "name": "Anfibios",
+                "value": 24338
+              },
+              {
+                "name": "Mamíferos",
+                "value": 257619
+              },
+              {
+                "name": "Reptiles",
+                "value": 14852
+              },
+              {
+                "name": "Peces",
+                "value": 62502
+              },
+              {
+                "name": "Peces Dulceacuícolas",
+                "value": 43014
+              }
+            ]
+          },
+          {
+            "name": "Invertebrados",
+            "value": 182165,
+            "children": [
+              {
+                "name": "Insectos",
+                "value": 171559,
+                "children": [
+                  {
+                    "name": "Abejas",
+                    "value": 2234
+                  },
+                  {
+                    "name": "Dípteros",
+                    "value": 16607
+                  },
+                  {
+                    "name": "Escarabajos",
+                    "value": 55019
+                  },
+                  {
+                    "name": "Hormigas",
+                    "value": 50449
+                  },
+                  {
+                    "name": "Mariposas",
+                    "value": 20029
+                  }
+                ]
+              },
+              {
+                "name": "Arácnidos",
+                "value": 4763
+              },
+              {
+                "name": "Moluscos",
+                "value": 1047
+              },
+              {
+                "name": "Decápodos",
+                "value": 787
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Plantas",
+        "value": 442888,
+        "children": [
+          {
+            "name": "Angiospermas",
+            "value": 384376
+          },
+          {
+            "name": "Gimnospermas",
+            "value": 228,
+            "children": [
+              {
+                "name": "Frailejones",
+                "value": 7262
+              },
+              {
+                "name": "Musgos",
+                "value": 19035
+              },
+              {
+                "name": "Epífitas",
+                "value": 12316
+              },
+              {
+                "name": "Helechos",
+                "value": 14021
+              },
+              {
+                "name": "Orquídeas",
+                "value": 7294
+              },
+              {
+                "name": "Hepáticas",
+                "value": 14914
+              },
+              {
+                "name": "Bromelias-Labiadas-Pasifloras",
+                "value": 8618
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hongos",
+        "value": 28210
+      },
+      {
+        "name": "Líquenes",
+        "value": 16646
+      },
+      {
+        "name": "Chromista",
+        "value": 8403
+      },
+      {
+        "name": "Protozoos",
+        "value": 2063
+      },
+      {
+        "name": "Virus",
+        "value": 7
+      },
+      {
+        "name": "Bacterias",
+        "value": 1953
+      }
+    ]
+  },
+  "chart_2": {
+    "name": "Total",
+    "value": 23984,
+    "children": [
+      {
+        "name": "Animales",
+        "value": 7798,
+        "children": [
+          {
+            "name": "Vertebrados",
+            "value": 3316,
+            "children": [
+              {
+                "name": "Aves",
+                "value": 1277
+              },
+              {
+                "name": "Anfibios",
+                "value": 234
+              },
+              {
+                "name": "Mamíferos",
+                "value": 295
+              },
+              {
+                "name": "Reptiles",
+                "value": 282
+              },
+              {
+                "name": "Peces",
+                "value": 1227
+              },
+              {
+                "name": "Peces Dulceacuícolas",
+                "value": 933
+              }
+            ]
+          },
+          {
+            "name": "Invertebrados",
+            "value": 4398,
+            "children": [
+              {
+                "name": "Insectos",
+                "value": 3624,
+                "children": [
+                  {
+                    "name": "Abejas",
+                    "value": 81
+                  },
+                  {
+                    "name": "Dípteros",
+                    "value": 371
+                  },
+                  {
+                    "name": "Escarabajos",
+                    "value": 673
+                  },
+                  {
+                    "name": "Hormigas",
+                    "value": 414
+                  },
+                  {
+                    "name": "Mariposas",
+                    "value": 1110
+                  }
+                ]
+              },
+              {
+                "name": "Arácnidos",
+                "value": 292
+              },
+              {
+                "name": "Moluscos",
+                "value": 229
+              },
+              {
+                "name": "Decápodos",
+                "value": 84
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Plantas",
+        "value": 14429,
+        "children": [
+          {
+            "name": "Angiospermas",
+            "value": 12065
+          },
+          {
+            "name": "Gimnospermas",
+            "value": 24,
+            "children": [
+              {
+                "name": "Frailejones",
+                "value": 66
+              },
+              {
+                "name": "Musgos",
+                "value": 680
+              },
+              {
+                "name": "Epífitas",
+                "value": 855
+              },
+              {
+                "name": "Helechos",
+                "value": 973
+              },
+              {
+                "name": "Orquídeas",
+                "value": 894
+              },
+              {
+                "name": "Hepáticas",
+                "value": 443
+              },
+              {
+                "name": "Bromelias-Labiadas-Pasifloras",
+                "value": 462
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hongos",
+        "value": 1146
+      },
+      {
+        "name": "Líquenes",
+        "value": 557
+      },
+      {
+        "name": "Chromista",
+        "value": 22
+      },
+      {
+        "name": "Protozoos",
+        "value": 33
+      },
+      {
+        "name": "Virus",
+        "value": 1
+      },
+      {
+        "name": "Bacterias",
+        "value": 58
+      }
+    ]
+  },
+  "chart_3": {
+    "categories": [
+      "Total Nacional",
+      "Total Orinoquia",
+      "VU",
+      "EN",
+      "CR"
+    ],
+    "groups": [
+      "Animales",
+      "Plantas",
+      "Hongos",
+      "Total Orinoquia",
+      "Total Nacional"
+    ],
+    "data": [
+      {
+        "category": "CR",
+        "group": "Animales",
+        "value": 24
+      },
+      {
+        "category": "CR",
+        "group": "Plantas",
+        "value": 46
+      },
+      {
+        "category": "CR",
+        "group": "Hongos",
+        "value": 6
+      },
+      {
+        "category": "CR",
+        "group": "Total Orinoquia",
+        "value": 76
+      },
+      {
+        "category": "CR",
+        "group": "Total Nacional",
+        "value": 466
+      },
+      {
+        "category": "EN",
+        "group": "Animales",
+        "value": 57
+      },
+      {
+        "category": "EN",
+        "group": "Plantas",
+        "value": 112
+      },
+      {
+        "category": "EN",
+        "group": "Hongos",
+        "value": 4
+      },
+      {
+        "category": "EN",
+        "group": "Total Orinoquia",
+        "value": 173
+      },
+      {
+        "category": "EN",
+        "group": "Total Nacional",
+        "value": 800
+      },
+      {
+        "category": "VU",
+        "group": "Animales",
+        "value": 100
+      },
+      {
+        "category": "VU",
+        "group": "Plantas",
+        "value": 135
+      },
+      {
+        "category": "VU",
+        "group": "Hongos",
+        "value": 7
+      },
+      {
+        "category": "VU",
+        "group": "Total Orinoquia",
+        "value": 242
+      },
+      {
+        "category": "VU",
+        "group": "Total Nacional",
+        "value": 838
+      },
+      {
+        "category": "Total Orinoquia",
+        "group": "Animales",
+        "value": 181
+      },
+      {
+        "category": "Total Orinoquia",
+        "group": "Plantas",
+        "value": 293
+      },
+      {
+        "category": "Total Orinoquia",
+        "group": "Hongos",
+        "value": 17
+      },
+      {
+        "category": "Total Orinoquia",
+        "group": "Total Orinoquia",
+        "value": 491
+      },
+      {
+        "category": "Total Orinoquia",
+        "group": "Total Nacional",
+        "value": 2104
+      },
+      {
+        "category": "Total Nacional",
+        "group": "Animales",
+        "value": 760
+      },
+      {
+        "category": "Total Nacional",
+        "group": "Plantas",
+        "value": 1262
+      },
+      {
+        "category": "Total Nacional",
+        "group": "Hongos",
+        "value": 32
+      }
+    ]
+  },
+  "chart_4": {
+    "title": "Número de socios publicadores",
+    "total": 90,
+    "data": [
+      { "category": "Academia", "value": 29 },
+      { "category": "ONG", "value": 19 },
+      { "category": "Empresas", "value": 15 },
+      { "category": "Centros de investigación", "value": 11 },
+      { "category": "Redes e iniciativas", "value": 8 },
+      { "category": "Autoridades ambientales", "value": 7 },
+      { "category": "Entidades territoriales", "value": 1 }
+    ]
+  }
+}

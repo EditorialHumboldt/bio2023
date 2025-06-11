@@ -1,0 +1,27 @@
+.legend {
+    display: flex;
+    gap: 15px;
+    font-size: 14px;
+  justify-content: center;
+}
+
+.legend div {
+    display: flex;
+    align-items: center;
+}
+
+.legend-box {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin-right: 5px;
+    border-radius: 3px; /* Opcional, para esquinas redondeadas */
+}
+.bio2023-graph-1 img {
+  display: block;
+}
+.bio2023-graph-1 img,
+.bio2023-graph-1 .legend {
+  max-width: 1300px;
+  margin: 0 auto 24px;
+}

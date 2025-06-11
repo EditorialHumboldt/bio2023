@@ -1,0 +1,70 @@
+#bio2023-302-map-1 {
+            position: relative;
+            background: white;
+            padding: 16px;
+            border-radius: 8px;
+         }
+        #bio2023-302-map-1 .map-layers img {
+            mix-blend-mode: multiply;
+        }
+
+        #bio2023-302-map-1 .map-filters img{
+            width: 24px;
+            height: 24px;
+
+        }
+        #bio2023-302-map-1 .map-filters {
+            position: absolute;
+            top: 16px;
+            left: 16px;
+            z-index:9;
+        }
+        #bio2023-302-map-1 .map-filters label {
+            color: #000;
+        }
+        #bio2023-302-map-1 .mapa-col {
+            position: absolute;
+            bottom: -16px;
+            right: 16px;
+            width: 160px;
+
+           
+            border-radius: 12px;
+            background: transparent;
+          mix-blend-mode: multiply;
+        }
+        #bio2023-302-map-1 .map-container > img {
+            width: 100%;
+            
+        }
+        #bio2023-302-hotspot .hotspot {
+            top: 45%;
+            left: 45%;
+        }
+        #bio2023-302-hotspot .iconos {
+            display: flex;
+            justify-content: center;
+            gap: 4px;
+        }
+        #bio2023-302-hotspot .iconos img {
+            width: 32px;
+            height: 32px;
+        }
+        #bio2023-302-hotspot .iconos span {
+            width: 32px;
+            height: 32px;
+            display: block;
+        }
+        .ico-vulnerabilidad {
+            width: 32px;
+            height: 32px;
+            display: block;
+            text-align: center;
+            font-weight: 700;
+            border-radius: 32px;
+            line-height: 32px;
+        }
+        .ico-lc {
+            background: #679E38;
+            color: white;
+        }

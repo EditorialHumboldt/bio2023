@@ -1,0 +1,322 @@
+{
+    "chart_1": [
+        {
+            "id": "NA",
+            "parent": "",
+            "name": "No aplica",
+            "color": "#C1B5A5"
+        },
+        {
+            "id": "LC",
+            "parent": "",
+            "name": "LC | Preocupaci\u00f3n menor",
+            "color": "#679E38"
+        },
+        {
+            "id": "NT",
+            "parent": "",
+            "name": "NT | Casi amenazado",
+            "color": "#A2C01A"
+        },
+        {
+            "id": "VU",
+            "parent": "",
+            "name": "VU | Vulnerable",
+            "color": "#FFD500"
+        },
+        {
+            "id": "EN",
+            "parent": "",
+            "name": "EN | En peligro",
+            "color": "#F59C00"
+        },
+        {
+            "id": "Canis familiaris",
+            "parent": "NA",
+            "name": "Canis familiaris",
+            "color": "#ED7B43",
+            "order": "Carnivora",
+            "categoria_amenaza": "NA"
+        },
+        {
+            "id": "Cerdocyon thous",
+            "parent": "LC",
+            "name": "Cerdocyon thous",
+            "color": "#ED7B43",
+            "order": "Carnivora",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Speothos venaticus",
+            "parent": "NT",
+            "name": "Speothos venaticus",
+            "color": "#ED7B43",
+            "order": "Carnivora",
+            "categoria_amenaza": "NT"
+        },
+        {
+            "id": "Leopardus pardalis",
+            "parent": "LC",
+            "name": "Leopardus pardalis",
+            "color": "#ED7B43",
+            "order": "Carnivora",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Leopardus tigrinus",
+            "parent": "VU",
+            "name": "Leopardus tigrinus",
+            "color": "#ED7B43",
+            "order": "Carnivora",
+            "categoria_amenaza": "VU"
+        },
+        {
+            "id": "Herpailurus yagouaroundi",
+            "parent": "LC",
+            "name": "Herpailurus yagouaroundi",
+            "color": "#ED7B43",
+            "order": "Carnivora",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Puma concolor",
+            "parent": "LC",
+            "name": "Puma concolor",
+            "color": "#ED7B43",
+            "order": "Carnivora",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Eira barbara",
+            "parent": "LC",
+            "name": "Eira barbara",
+            "color": "#ED7B43",
+            "order": "Carnivora",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Pteronura brasiliensis",
+            "parent": "EN",
+            "name": "Pteronura brasiliensis",
+            "color": "#ED7B43",
+            "order": "Carnivora",
+            "categoria_amenaza": "EN"
+        },
+        {
+            "id": "Galictis vittata",
+            "parent": "LC",
+            "name": "Galictis vittata",
+            "color": "#ED7B43",
+            "order": "Carnivora",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Nasua nasua",
+            "parent": "LC",
+            "name": "Nasua nasua",
+            "color": "#ED7B43",
+            "order": "Carnivora",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Bos taurus",
+            "parent": "NA",
+            "name": "Bos taurus",
+            "color": "#DF84B5",
+            "order": "Cetartiodactyla",
+            "categoria_amenaza": "NA"
+        },
+        {
+            "id": "Mazama americana",
+            "parent": "LC",
+            "name": "Mazama americana",
+            "color": "#DF84B5",
+            "order": "Cetartiodactyla",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Odocoileus virginianus",
+            "parent": "LC",
+            "name": "Odocoileus virginianus",
+            "color": "#DF84B5",
+            "order": "Cetartiodactyla",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Pecari tajacu",
+            "parent": "VU",
+            "name": "Pecari tajacu",
+            "color": "#DF84B5",
+            "order": "Cetartiodactyla",
+            "categoria_amenaza": "VU"
+        },
+        {
+            "id": "Tayassu pecari",
+            "parent": "LC",
+            "name": "Tayassu pecari",
+            "color": "#DF84B5",
+            "order": "Cetartiodactyla",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Priodontes maximus",
+            "parent": "VU",
+            "name": "Priodontes maximus",
+            "color": "#6DC6DA",
+            "order": "Cingulata",
+            "categoria_amenaza": "VU"
+        },
+        {
+            "id": "Dasypus novemcinctus",
+            "parent": "LC",
+            "name": "Dasypus novemcinctus",
+            "color": "#6DC6DA",
+            "order": "Cingulata",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Dasypus sabanicola",
+            "parent": "LC",
+            "name": "Dasypus sabanicola",
+            "color": "#6DC6DA",
+            "order": "Cingulata",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Dasypus pastasae ",
+            "parent": "LC",
+            "name": "Dasypus pastasae ",
+            "color": "#6DC6DA",
+            "order": "Cingulata",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Didelphis marsupialis",
+            "parent": "LC",
+            "name": "Didelphis marsupialis",
+            "color": "#047B9C",
+            "order": "Didelphimorphia",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Metachirus nudicaudatus",
+            "parent": "LC",
+            "name": "Metachirus nudicaudatus",
+            "color": "#047B9C",
+            "order": "Didelphimorphia",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Equus caballus",
+            "parent": "NA",
+            "name": "Equus caballus",
+            "color": "#CBBBA0",
+            "order": "Perissodactyla",
+            "categoria_amenaza": "NA"
+        },
+        {
+            "id": "Tapirus terrestris",
+            "parent": "VU",
+            "name": "Tapirus terrestris",
+            "color": "#CBBBA0",
+            "order": "Perissodactyla",
+            "categoria_amenaza": "VU"
+        },
+        {
+            "id": "Myrmecophaga tridactyla",
+            "parent": "VU",
+            "name": "Myrmecophaga tridactyla",
+            "color": "#DEDC00",
+            "order": "Pilosa",
+            "categoria_amenaza": "VU"
+        },
+        {
+            "id": "Tamandua tetradactyla",
+            "parent": "LC",
+            "name": "Tamandua tetradactyla",
+            "color": "#DEDC00",
+            "order": "Pilosa",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Sapajus apella",
+            "parent": "LC",
+            "name": "Sapajus apella",
+            "color": "#00A68D",
+            "order": "Primates",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Saimiri sciureus",
+            "parent": "LC",
+            "name": "Saimiri sciureus",
+            "color": "#00A68D",
+            "order": "Primates",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Alouatta seniculus",
+            "parent": "LC",
+            "name": "Alouatta seniculus",
+            "color": "#00A68D",
+            "order": "Primates",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Aotus brumbacki",
+            "parent": "VU",
+            "name": "Aotus brumbacki",
+            "color": "#00A68D",
+            "order": "Primates",
+            "categoria_amenaza": "VU"
+        },
+        {
+            "id": "Hydrochoerus hydrochaeris",
+            "parent": "LC",
+            "name": "Hydrochoerus hydrochaeris",
+            "color": "#A072AF",
+            "order": "Rodentia",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Cuniculus paca",
+            "parent": "LC",
+            "name": "Cuniculus paca",
+            "color": "#A072AF",
+            "order": "Rodentia",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Dasyprocta fuliginosa",
+            "parent": "LC",
+            "name": "Dasyprocta fuliginosa",
+            "color": "#A072AF",
+            "order": "Rodentia",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Proechimys spp.",
+            "parent": "NA",
+            "name": "Proechimys spp.",
+            "color": "#A072AF",
+            "order": "Rodentia",
+            "categoria_amenaza": "NA"
+        },
+        {
+            "id": "Sciurus granatensis",
+            "parent": "LC",
+            "name": "Sciurus granatensis",
+            "color": "#A072AF",
+            "order": "Rodentia",
+            "categoria_amenaza": "LC"
+        },
+        {
+            "id": "Coendou prehensilis",
+            "parent": "LC",
+            "name": "Coendou prehensilis",
+            "color": "#A072AF",
+            "order": "Rodentia",
+            "categoria_amenaza": "LC"
+        }
+    ]
+}

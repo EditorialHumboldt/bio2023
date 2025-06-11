@@ -1,0 +1,63 @@
+.flow-diagram {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+  flex-wrap: wrap;
+  margin: 3rem auto 0;
+  max-width: 1000px;
+  position: relative;
+}
+
+.column.top {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ gap: 0.25rem;
+}
+
+.column.right {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.25rem;
+  margin-top: 0;
+  flex-wrap: wrap;
+}
+
+.circle {
+  width: 150px;
+  height: 150px;
+  border: 2px solid #E87F3A;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: #222;
+  background: white;
+}
+
+.arrow {
+  width: 48px;
+  height: 48px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  flex-shrink: 0;
+}
+
+.arrow.down {
+  
+  transform: rotate(90deg);
+}
+
+.flow-diagram-container > img {
+position: absolute;
+  bottom: 0;
+  left: 60%;
+  width: 60%;
+  max-width: 500px;
+}

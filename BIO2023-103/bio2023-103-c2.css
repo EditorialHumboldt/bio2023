@@ -1,0 +1,30 @@
+.block.bg-green {
+  padding: 2rem;
+}
+.flex-container {
+        display: flex;
+
+    }
+
+    .col-8 {
+        flex: 8;
+    }
+
+    .col-4 {
+        flex: 4;
+    }
+
+    .col-4 ol {
+        font-style: italic
+    }
+
+    @media (max-width: 768px) {
+        .flex-container {
+            flex-direction: column;
+        }
+
+        .col-8,
+        .col-4 {
+            flex: 1;
+        }
+    }

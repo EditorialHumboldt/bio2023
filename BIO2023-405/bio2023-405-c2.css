@@ -1,0 +1,150 @@
+#mapa405 {
+            position: relative;
+            max-width: 900px;
+            margin: auto;
+  			background: white;
+  			border-radius: 8px;
+        }
+.mapa-col {
+	position: absolute;
+  	width: min(150px, 25%);
+}
+.mapa-col  img {
+	width: 100%;
+  	height: auto;
+  border-radius: 8px;
+}
+
+        #mapa405>img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        #zonas .zonaInteractiva {
+            fill: transparent;
+            stroke: #000;
+            stroke-dasharray: 4 6;
+            cursor: pointer;
+        }
+
+        /* ---- tooltip ---- */
+        .tooltip-405 {
+            position: absolute;
+            z-index: 50;
+            width: 260px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, .25);
+          	font-size: 14px;
+            font-weight: 400;
+            color: #111;
+            padding: 12px 16px;
+            pointer-events: none;
+            /* evita que el ratón “toque” el tooltip */
+            opacity: 0;
+            transition: opacity .15s;
+          text-align: left !important;
+        }
+        .tooltip-405:after {
+            display: none !important;
+        }
+        .tooltip-405 ul {
+            margin: 4px 0 0 0;
+            padding-left: 18px
+        }
+
+        .tooltip-405 li {
+            margin-bottom: 3px
+        }
+
+        .tooltip::after {
+            /* flechita */
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 32px;
+            border: 8px solid transparent;
+            border-top-color: #fff;
+        }
+
+        /* resaltar zona mientras está activa */
+        .zona-hover {
+            fill: rgba(230, 167, 20, 0.404) !important
+        }
+
+        /*convenciones*/
+        /* ---- legend / convenciones ---- */
+        #convenciones {
+            max-width: 420px;
+            margin: 0 auto 1rem
+        }
+
+        #convenciones details {
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            margin-bottom: .5rem;
+            background: #fafafa;
+            padding: .35rem .75rem
+        }
+
+        #convenciones summary {
+            font-weight: 600;
+            cursor: pointer;
+            list-style: none;
+            outline: none
+        }
+
+        #convenciones summary::-webkit-details-marker {
+            display: none
+        }
+
+        #convenciones summary::before {
+            content: "▾";
+            display: inline-block;
+            margin-right: .35rem;
+            transition: transform .2s
+        }
+
+        #convenciones details[open] summary::before {
+            transform: rotate(180deg)
+        }
+
+        #convenciones ul {
+            list-style: none;
+            margin: .45rem 0 0;
+            padding: 0
+        }
+
+        #convenciones li {
+            display: flex;
+            align-items: center;
+            margin: .15rem 0;
+            font-size: 14px
+        }
+
+        .swatch {
+            width: 18px;
+            height: 18px;
+            margin-right: .5rem;
+            border: 1px solid #000;
+            flex: 0 0 18px
+        }
+
+        .swatch.outline {
+            background: transparent;
+            border: 2px solid #000
+        }
+
+        .swatch.line {
+            height: 2px;
+            width: 26px;
+            margin-right: .5rem;
+            border: none
+        }
+
+        .swatch.hatched {
+            background-image: repeating-linear-gradient(45deg, #7C776B 0 4px, transparent 4px 8px);
+            background-color: #fff;
+            border: 1px solid #7C776B
+        }

@@ -1,0 +1,30 @@
+#chart_3 {
+    max-width: 630px;
+    margin: 0 auto;
+    position: relative;
+}
+
+#bio2023-101-chart_3 text{
+    pointer-events: none;
+}
+#bio2023-101-chart_3 circle {
+    mix-blend-mode: multiply;
+}
+#bio2023-101-chart_3 svg {
+    overflow: visible;
+}
+#bio2023-101-chart_3 .tooltip {
+    position: absolute;
+    background-color: #2d3a43 !important;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 14px;
+    display: none;
+    pointer-events: none;
+    font-weight: 400;
+}
+.bg-2023-101 {
+  background: url(https://reporte.humboldt.org.co/assets/img/2023/1/101/bio2023-101-especies-amenazadas.png) no-repeat left bottom;
+  background-size: 45vh;
+}

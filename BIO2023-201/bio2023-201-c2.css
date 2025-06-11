@@ -1,0 +1,60 @@
+.bg-bio2023-huella {
+background: #dbd7cc url(https://reporte.humboldt.org.co/assets/img/2023/2/201/bio2023-201-fondo-huella-humana.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.bio2023-201-maps {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.bio2023-201-maps .tab-content {
+background-color: rgba(255,255,255,0.8);
+}
+.bio2023-201-maps .tab.active {
+    background: #f59c00;
+    color: white;
+    border-color: #f59c00;
+}
+.bio2023-201-map-container {
+            display: flex;
+
+        }
+
+        .bio2023-201-map-container .col-8 {
+            flex: 8;
+        }
+
+        .bio2023-201-map-container .col-4 {
+            flex: 4;
+        }
+
+        .map-filters label {
+            display: flex;
+          align-items:center;
+          font-weight: bold;
+        }
+.map-filters label img {
+  width: 20px;
+  border-radius: 0 !important;
+  margin: 0 !important;
+}
+.tabs {
+max-width: 400px;
+}
+.mb-48 {
+  margin-bottom: 48px;
+}
+.map-container img {
+  margin: 0 !important;
+}
+
+        @media (max-width: 768px) {
+            .bio2023-201-map-container {
+                flex-direction: column;
+            }
+
+            .bio2023-201-map-container .col-8,
+            .bio2023-201-map-container .col-4 {
+                flex: 1;
+            }
+        }

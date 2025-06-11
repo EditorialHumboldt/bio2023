@@ -1,0 +1,51 @@
+.mapa-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+}
+.mapa-wrapper img {
+  width: 100%;
+  display: block;
+}
+.numero-mapa {
+  position: absolute;
+  background: black;
+  color: white;
+  font-weight: bold;
+  font-size: 0.9rem;
+  width: 24px;
+  height: 24px;
+  text-align: center;
+  line-height: 24px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.numero-mapa.hover,
+.listado-municipios li.hover {
+  background-color: #008493;
+  
+}
+.listado-municipios li {
+  margin-bottom: 0.4rem;
+  cursor: pointer;
+  transition: color 0.3s;
+  font-weight: normal;
+  padding: 0 0.25rem;
+  max-width: 200px;
+}
+.mapa-hormigas h3 span {
+	display: inline-block;
+  margin-right: 0.5em;
+  width: 1em;
+  height: 1em;
+}
+.mapa-hormigas h3:first-of-type span {
+background: #719a5a;
+}
+.mapa-hormigas h3:last-of-type span {
+background: #dad682;
+}
+.listado-municipios li.hover span {
+  color: #ffffff !important;
+}

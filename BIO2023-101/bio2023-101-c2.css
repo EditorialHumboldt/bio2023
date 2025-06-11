@@ -1,0 +1,43 @@
+.bubble-graph-container  .node {
+    stroke-width: 1px;
+    stroke: white;
+    cursor: pointer;
+    opacity: 0.65;
+}
+.bubble-graph-container g > .node:first-child {
+    fill: none;
+    stroke: none;
+    pointer-events: none !important;
+}
+
+.bubble-graph-container .label {
+    text-anchor: middle;
+    fill: #2d3a43;
+    pointer-events: none;
+    dominant-baseline: hanging; 
+}
+
+.bubble-graph-container svg {
+    background-color: rgba(255, 255, 255, 0.15);
+    overflow: hidden;
+    border-radius: 100%;
+}
+.bubble-graph-container {
+    position: relative;
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#bio2023-101-chart_1 {
+    background-image: url(https://reporte.humboldt.org.co/assets/img/2023/1/101/bio2023-101-chart1-fondo-especies.svg)
+}
+#bio2023-101-chart_2 {
+    background-image: url(https://reporte.humboldt.org.co/assets/img/2023/1/101/bio2023-101-chart2-fondo-especies.svg)
+}
+#chart_1, #chart_2 {
+    max-width: 700px;
+  min-height: 700px;
+    margin: 0 auto;
+    position: relative;
+}

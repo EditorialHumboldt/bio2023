@@ -1,0 +1,51 @@
+div#bio2023-layerMap-204-map_1-filters {
+    position: absolute;
+    width: min(90%, 240px);
+    top: 32px;
+    left: 0;
+  
+    
+}
+#bio2023-layerMap-204-map_1-filters label {
+color: black;
+}
+
+div#bio2023-layerMap-204 {
+    position:relative;
+}
+#bio2023-layerMap-204 .mapa-col {
+  position: absolute;
+  right: 5vh;
+  bottom: 0;
+   width: min(60%, 180px);
+  background: transparent;
+          mix-blend-mode: multiply;
+  border-radius: 16px;
+  z-index: 2;
+}
+#bio2023-layerMap-204 .map-container {
+	max-width: 90vh;
+}
+#bio2023-204-chart-1 {
+            width: 500px;
+            height: 600px;
+            margin:  32px auto;
+            font-family: Rubik, sans-serif;
+        }
+
+        #bio2023-204-chart-1 svg {
+            display: block;
+            margin: auto;
+            mix-blend-mode: multiply;
+        }
+        #bio2023-204-chart-1 svg circle {
+            mix-blend-mode: multiply;
+        }
+        #bio2023-204-chart-1 .label {
+            font-weight: normal;
+            /*text-anchor: middle;*/
+        }
+        #bio2023-204-chart-1 .line {
+            stroke: black;
+            stroke-dasharray: 2,4;
+        }

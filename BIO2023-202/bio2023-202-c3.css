@@ -1,0 +1,105 @@
+.fondo-rio-2023-202 {
+	position: absolute;
+  	top: 0;
+  	left: 50%;
+  	height: 100%;
+  	width: 50%;
+  	border-radius: 50vh 0 0 0;
+  	overflow: hidden;
+  z-index:-1;
+}
+.fondo-rio-2023-202 +div {
+	position: relative;
+  z-index:2;
+}
+.fondo-rio-2023-202 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+}
+
+div#bio2023-202-chart-1 {
+    display: flex;
+    width: 100%;
+}
+div#bio2023-202-chart-1 .hotspots {
+    
+    display: inline-flex;
+}
+
+div#bio2023-202-chart-1 .hotspots img{
+    height: calc(100vh - 300px);
+}
+#bio2023-202-chart-1 .mapa-col {
+  position: relative;
+}
+#bio2023-202-chart-1 .hotspots-container .hotspot .icon {
+  	font-style: normal;
+    text-align: center;
+    background-image: none;
+    background-color: #000000;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.75;
+}
+div#bio2023-202-chart-1 .hotspot:nth-child(1) {
+    top: 14%;
+    left: 50%;
+}
+div#bio2023-202-chart-1 .hotspot:nth-child(2) {
+    top: 26%;
+    left: 65%;
+}
+div#bio2023-202-chart-1 .hotspot:nth-child(3) {
+    top: 44%;
+    left: 66%;
+}
+div#bio2023-202-chart-1 .hotspot:nth-child(4) {
+    top: 62%;
+    left: 74%;
+}
+div#bio2023-202-chart-1 .hotspot:nth-child(5) {
+    top: 70%;
+    left: 53%;
+}
+div#bio2023-202-chart-1 .hotspot:nth-child(6) {
+    top: 71%;
+    left: 34%;
+}
+div#bio2023-202-chart-1 .hotspot:nth-child(7) {
+    top: 39%;
+    left: 45%;
+}
+
+div#bio2023-202-chart-1 .hotspots-container .hotspot .hotspot-content {
+    background: white;
+    padding: 0;
+    border-radius: 8px;
+}
+div#bio2023-202-chart-1 .chart-container > div {
+    height: 200px !important;
+}
+.escenarios-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.escenarios-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 4px;
+}
+
+.escenarios-list .circle {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+}
+div#bio2023-202-chart-1 .hotspots-container .hotspot .hotspot-content {
+    opacity: 1;
+}
+div#bio2023-202-chart-1 .hotspot-content {
+   z-index: 9;
+}

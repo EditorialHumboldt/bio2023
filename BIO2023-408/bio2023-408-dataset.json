@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "nombre": "Desencuentro entre comunidades indígenas U'wa y empresas petroleras por uso del territorio asociado a la exploración y explotación de crudo",
+    "descripcion": "Entre 1992 a 2002 se reportó una confrontación entre las comunidades indígenas de la etnia U’wa y las empresas Oxy y Ecopetrol por la operación del bloque petrolero conocido como Samoré. Esta confrontación estuvo marcada por movilizaciones, enfrentamientos armados y un complejo entramado jurídico. Las actividades de exploración ocasionaron perjuicios a los U’wa, al invadir su territorio sagrado y vulnerar su tradición cultural ligada a la conservación y preservación de la naturaleza y de la vida. Debido a esta oposición, la empresa Oxy decidió no continuar con el proyecto y ceder su derecho de administración del bloque a Ecopetrol. Para las comunidades indígenas, su territorio es más amplio que las zonas de resguardo que han sido legalizadas por el Estado, puesto que este territorio lo han ocupado de manera ancestral, es decir, tienen presencia histórica en el territorio.\n",
+    "departamentos": [
+      "Arauca"
+    ],
+    "municipios": [
+      "Saravena",
+      "Fortul",
+      "Tame"
+    ],
+    "tipos": [
+      "T1",
+      "T3"
+    ],
+    "actores": [
+      "Gremios y empresas",
+      "Comunidades indígenas"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Desencuentro entre indígenas Hitnu, empresas petroleras y campesinos colonos por uso y acceso al bosque",
+    "descripcion": "Las comunidades de la etnia Hitnu han sido desplazadas de su territorio ancestral y se han visto obligadas a cambiar sus patrones culturales como resultado de transformaciones en el territorio. En la década de los 80s con la entrada de la industria petrolera (titulación de proyectos de exploración y explotación petrolera) y posteriormente con el asentamiento de colonos, cuyas costumbres sobre el uso y apropiación de los recursos naturales va en contravía con los patrones culturales de las comunidades Hitnu. Esto ha traído como consecuencia la reducción de árboles frutales, de especies de fauna, un aumento de la deforestación de las selvas e impactos sobre las cuencas hídricas por el derramamiento de petróleo",
+    "departamentos": [
+      "Arauca"
+    ],
+    "municipios": [
+      "Arauca",
+      "Arauquita"
+    ],
+    "tipos": [
+      "T1",
+      "T3"
+    ],
+    "actores": [
+      "Gremios y empresas",
+      "Comunidades campesinas",
+      "Comunidades indígenas"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Desencuentro entre el pueblo indigena Sikuanil, organizaciones sociales ambientalistas y empresas petroleras por el agua y la biodiversidad del ecosistema bioestratégico El Lipa",
+    "descripcion": "En 1980 el Instituto Nacional de Recursos Naturales y del Ambiente (Inderena) retiró la figura de área protegida para el Santuario de Fauna y Flora Arauca. Posteriormente se inician las actividades petroleras, lo que condujo a una gran transformación del paisaje del complejo de humedales de los ríos Lipa y Ele debido a las actividades petroleras, de infraestructura y al asentamiento de colonos campesinos. Lo anterior generó afectaciones en el agua y la biodiversidad como resultado del desvío de ríos, la contaminación de los afluentes y el bloqueo de entradas de agua al afluente. Esto ha provocado conflictos entre el pueblo indígena Sikuani y las empresas petroleras por el accesos al territorio y la conservación de sus modos de vida a casusa de los impactos ambientales y culturales de la explotacióm de hidrocarburos.\n",
+    "departamentos": [
+      "Arauca"
+    ],
+    "municipios": [
+      "Arauquita",
+      "Saravena"
+    ],
+    "tipos": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "actores": [
+      "Gremios y empresas",
+      "Autoridades ambientales",
+      "Comunidades campesinas",
+      "Comunidades indígenas"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Desencuentro entre comunidades indigenas, campesinas y empresas petroleras por la tenencia de la tierra, uso y acceso de agua y biodiversidad debido a las afectaciones generadas por el funcionamiento del Campo Petrolero Caño Limón y el oleoducto Caño Limón-Coveñas",
+    "descripcion": "Con el descubrimiento del campo petrolero Caño Limón se da la entrada de la industria petrolera al departamento, provocando una acelerada transformación del paisaje debido a la construcción de vías de acceso al oleoducto Caño Limón–Coveñas (extensión 770 Km, siendo el más largo del país). Estas transformaciones han generado modificaciones en las relaciones de tenencia de tierras, el acceso a la biodiversidad y al agua. Todo lo cual despierta la exigencia de comunidades indígena U´wa y sikuani, además de comunidades campesinas de restitución de los derechos vulnerados por las injusticias ambientales, sociales y humanitarias que se han infligido producto de la operación del oleoducto.\nDesde la construcción del proyecto hasta el año 2014 se habían registrado más de 1 500 ataques y bombardeos al oleoducto, generando derrames de crudo en suelos, arroyos y ríos que han afectado la vida de las personas y el equilibrio ecológico de la región. Durante 2012 y 2013 la sociedad civil se organizó en torno a movimientos y colectivos sociales que han llevado a cabo acciones de protesta. Durante el 2018 han ocurrido asesinatos a líderes sociales.\n\n",
+    "departamentos": [
+      "Arauca"
+    ],
+    "municipios": [
+      "Arauca",
+      "Arauquita"
+    ],
+    "tipos": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "actores": [
+      "Gremios y empresas",
+      "Organizaciones sociales y ambientales y ONG",
+      "Sociedad civil",
+      "Actores armados",
+      "Comunidades campesinas",
+      "Comunidades indígenas"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Desencuentro entre indígenas de comunidades del resguardo caño Mochuelo y campesinos en los departamentos de Arauca (Cravo Norte y Arauca) y Casanare (Paz de Ariporo y Hato Corozal) por el uso del suelo y el acceso a los recursos naturales",
+    "descripcion": "Las comunidades que habitan Caño Mochuelo (94 670 ha de extensión, 10 pueblos indígenas, 14 comunidades y aproximadamente 3300 habitantes) afirman que el espacio legalizado como resguardo no es suficiente para cubrir las necesidades alimenticias de toda la población, razón por la cual se han presentado casos de desnutrición y muertes de niños asociadas a esta problemática. El conflicto se da por las diferentes visiones del territorio que tienen los indígenas y los campesinos y colonos. Las autoridades de Caño Mochuelo elevarón una petición para ampliar el resguardo, incluso más allá de Casanare, tomando porciones del departamento de Arauca, incluyendo zonas del CNMI Cinaruco. Esto abre la posibilidad de un diálogo entre indígenas, campesinos e instituciones de control ambiental para pensar en un territorio intercultural.",
+    "departamentos": [
+      "Arauca",
+      "Casanare"
+    ],
+    "municipios": [
+      "Arauca",
+      "Cravo Norte",
+      "Paz de Ariporo",
+      "Hato corozal"
+    ],
+    "tipos": [
+      "T1",
+      "T3"
+    ],
+    "actores": [
+      "Autoridades ambientales",
+      "Comunidades campesinas",
+      "Comunidades indígenas"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Desencuentro entre comiunidades campesinas y autoridades ambientales por la ocupación y desarrollo de actividades productivas en el área del Parque Nacional Natural El Cocuy",
+    "descripcion": "Este conflicto se presenta por una dinámica de ocupación sobre los ecosistemas del costado oriental del área de influencia del PNN El Cocuy,  ya que los campesinos que se han asentado en esta zona (área protegida de la zona de influencia del PNN El Cocuy en donde se restringen algunas actividades productivas) han adoptado modelos productivos que no están permitidos en este entorno natural (ganadería extensiva, extracción de productos forestales con fines comerciales, minería y la extracción de hidrocarburos secando y contaminando las fuentes de agua más importantes como el Río Cravo).  Se han adelantado mesas locales de conservación con los campesinos de la región, pero no se han dado soluciones estructurales por la ausencia del catastro multipropósito y la incertidumbre sobre la propiedad de la tierra.",
+    "departamentos": [
+      "Arauca"
+    ],
+    "municipios": [
+      "Tame",
+      "Saravena",
+      "Fortul"
+    ],
+    "tipos": [
+      "T2",
+      "T3"
+    ],
+    "actores": [
+      "Autoridades ambientales",
+      "Comunidades campesinas"
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Desencuentro entre comunidades indígenas u´wa, comunidades campesinas y autoridades ambientales locales por las visiones de uso y conservación del territorio para la protección de fuentes hídricas",
+    "descripcion": "Existe un desencuentro entre las comunidades indígenas, las comunidades campesinas y autoridades locales y territoriales por el acceso y uso de la tierra. Por un lado, la pérdida de tierras es una de las principales preocupaciones de las comunidades U’wa, si bien cuentan con la titularidad de varios resguardos indígenas, las comunidades U’wa consideran que su territorio sagrado es aún más amplio de lo que está titulado como resguardo. Además, debido a la aridez del suelo o porque se consideran lugares sagrados, muchas zonas de sus resguardos no son aptas para desarrollar cultivos. Por otro lado, las entidades territoriales (departamentos y municipios) se encuentran en la obligación de destinar un porcentaje no menor a 1% de sus ingresos corrientes para compra de predios en áreas de importancia estratégica para la conservación de recursos hídricos que surten de agua a los acueductos municipales. Este proceso de compra de predios por parte de la gobernación de Arauca y sus municipios ha puesto en evidencia un conflicto con las comunidades indígenas y campesinas, pues las comunidades campesinas que vendieron sus predios denuncian que las comunidades indígenas son quienes hacen posesión de esos predios vía quemas.",
+    "departamentos": [
+      "Arauca"
+    ],
+    "municipios": [
+      "Tame",
+      "Fortul",
+      "Saravena"
+    ],
+    "tipos": [
+      "T2",
+      "T3"
+    ],
+    "actores": [
+      "Gobiernos municipales y departamentales",
+      "Comunidades campesinas",
+      "Comunidades indígenas"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Desencuentro entre comunidades campesinas y autoridades ambientales por visiones de uso y conservación en áreas de la Reserva Forestal El Cocuy",
+    "descripcion": "La ley segunda de 1959 establece los principios para la creación y delimitación de las reservas forestales. Estas se crean con la intención de proteger los suelos, las fuentes de agua y la vida silvestre y  son zonas pensadas para el ordenamiento y la gestión ambiental del territorio, aunque no son áreas protegidas, en su interior se encuentran áreas del Sinap y territorios colectivos. La Reserva Forestal El Cocuy se considera una estrategia de conservación in situ. Esta es sujeto de ocupación por parte de comunidades campesinas con diversos procesos socioeconómicos, quienes no han sido desconocidas por parte del Ministerio de Ambiente en el proceso de delimitación de esta área. De acuerdo con las autoridades ambientales (Ministerio de Ambiente y Agencia Nacional de Tierra) es necesario realizar acuerdos de uso con los ocupantes. Sin embargo, varios de los ocupantes de esta área se niegan a firmar dichos acuerdos de uso y solicitan la sustracción de sus tierras para que les sean tituladas dentro de un proceso de reforma agraria. Sumado a esto, también se está presentando la adjudicación de predios en este territorio que, por ley, no es adjudicable. ",
+    "departamentos": [
+      "Arauca"
+    ],
+    "municipios": [
+      "Tame ",
+      "Fortul",
+      "Saravena"
+    ],
+    "tipos": [
+      "T2",
+      "T3"
+    ],
+    "actores": [
+      "Autoridades ambientales",
+      "Comunidades campesinas"
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Desencuentro entre comunidades locales y autoridades locales y ambientales por impactos ocasionados por relleno sanitario",
+    "descripcion": "En la vereda Matelion del municipio de Tame, Arauca, se localiza un relleno sanitario que viene causando impactos socioambientales en la región como el derrame de lixiviados, la contaminación de las fuentes hídricas aledañas y la emanación de olores nauseabundos. Por esta razón, las comunidaes locales emitieron una denuncia, haciendo un cuestionamiento sobre la ubicación de este relleno sanitario dentro del territorio que hace parte de la reserva natural de la Sierra Nevada del Cocuy.",
+    "departamentos": [
+      "Arauca"
+    ],
+    "municipios": [
+      "Tame"
+    ],
+    "tipos": [
+      "T1",
+      "T3"
+    ],
+    "actores": [
+      "Comunidades campesinas",
+      "Autoridades locales"
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Desencuentro entre organizaciones ambientalistas, sector productivo y autoridades locales por las visiones de conservación y de producción en los ecosistemas de sabanas inundables",
+    "descripcion": "El Plan Nacional de Desarrollo PND 2010-2014 determinó la necesidad de delimitar humedales en el departamento de Casanare para su manejo, protección y preservación. Aunque esta solicitud fue suprimida en el PND 2015-2018, se han adelantado distintos esfuerzos por delimitar áreas para la preservación de estos ecosistemas estratégicos (por ejemplo, proceso de declaración del área protegida \"Los Morichales\", en Paz de Ariporo durante el año 2018). Se ha levantado información técnica para entender las dinámicas y los patrones de ocupación de los humedales con el fin de establecer sus límites y posteriormente diseñar un plan de manejo. A partir de esta información, se han observado conflictos en torno a la declaratoria de áreas protegidas en la zona, derivados de diferencias entre actores sociales por sus patrones de ocupación de la tierra y de uso, acceso, apropiación y distribución de los recursos naturales.",
+    "departamentos": [
+      "Casanare"
+    ],
+    "municipios": [
+      "Hato Corozal",
+      "Paz de Ariporo",
+      "Trinidad"
+    ],
+    "tipos": [
+      "T1",
+      "T2"
+    ],
+    "actores": [
+      "Organizaciones sociales y ambientales y ONG",
+      "Sociedad civil",
+      "Autoridades ambientales",
+      "Comunidades campesinas"
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Desencuentro entre comunidades locales y empresas petroleras por impactos en el agua derivados de la actividad petrolera",
+    "descripcion": "La actividad petrolera ha provocado cambios en la vocación productiva de este territorio y ha modificado el paisaje. También ha provocado impactos ambientales, especialmente, sobre cuerpos de agua que son aprovechados por las comunidades locales para consumo cotidiano. Una de las empresas que más sanciones tiene por daños al medio ambiente es Perenco. En el año 2020 se presentaron protestas por parte de comunidades de Paz de Ariporo y Trinidad, quienes bloquearon la entrada del pozo petrolero Caño Garza ubicado en Paz de Ariporo y operado por Perenco. Las comunidades de estos municipios se han organizado para exigir a las empresas petroleras que los compensen por las afectaciones socioambientales que han dejado en el territorio. \n",
+    "departamentos": [
+      "Casanare"
+    ],
+    "municipios": [
+      "Trinidad",
+      "San Luis",
+      "Paz de Ariporo",
+      "Orocué"
+    ],
+    "tipos": [
+      "T1",
+      "T2"
+    ],
+    "actores": [
+      "Gremios y empresas",
+      "Organizaciones sociales y ambientales y ONG",
+      "Sociedad civil",
+      "Comunidades campesinas"
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Desencuentro entre comunidades indígenas y empresas petroleras por el uso y aprovechamiento del agua",
+    "descripcion": "En el municipio de Orocué, Casanare, se han conformado ocho (8) resguardos indígenas del pueblo Sáliba. De estos, al menos cuatro (4) han presentado disputas entre las comunidades indígenas y las empresas petroleras que adelantan actividades de extracción de hidrocarburos. Estas disputas se originan por los impactos ambientales que se derivan de esta actividad económica, llevando a las comunidades indígenas a presentar demandas jurídicas. Los impactos ambientales están relacionados mayoritariamente con la contaminación del agua, así como también con el acceso a este recurso porque se han secado fuentes de agua.",
+    "departamentos": [
+      "Casanare"
+    ],
+    "municipios": [
+      "Orocué"
+    ],
+    "tipos": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "actores": [
+      "Entidades de control",
+      "Gremios y empresas",
+      "Comunidades indígenas"
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "Desencuentros entre organizaciones sociales ambientalistas, comunidades campesinas y empresas petroleras por uso y aprovechamiento de agua y conservación de biodiversidad",
+    "descripcion": "En el piedemonte llanero del departamento del Casanare, se han desarrollado distintos proyectos de exploración y explotación petrolera por parte de diversas empresas multinacionales en asocio con Ecopetrol. Desde esta zona inicia su recorrido el oleoducto Ocensa, así como distintos bloques petroleros que se traslapan con Reservas Naturales de la Sociedad Civil, las cuales son áreas protegidas. Esta actividad ha generado distintos tipos de impactos socioambientales, lo cual ha provocado la reacción de las comunidades locales para organizarse y manifestarse en contra de las actividades petroleras en sus territorios. Dentro de las acciones adelantadas por la comunidad, se destaca la consulta popular realizada en el municipio de Tauramena en 2013, donde 96 % de los votantes se manifestaron en contra de la realización del proyecto de exploración sísmica Odisea 3D). También se destaca la organización comunitaria para protestar contra el bloque petrolero Niscota, pues los habitantes denuncian que este proyecto ha contaminado reservas de agua subterráneas, ha afectado el equilibrio ecológico y ha reducido la biodiversidad y los ecosistemas, causando una afectación a los medios de subsistencia de las comunidades locales.",
+    "departamentos": [
+      "Casanare"
+    ],
+    "municipios": [
+      "Tauramena",
+      "Monterrey",
+      "Recetor",
+      "Chámeza",
+      "Aguazul",
+      "Yopal",
+      "Nunchía"
+    ],
+    "tipos": [
+      "T1",
+      "T2"
+    ],
+    "actores": [
+      "Comunidades locales",
+      "Gremios y empresas"
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "Conflicto en torno a actividades de exploración en bloque petrolero Mundo Nuevo",
+    "descripcion": "El bloque petrolero Mundo Nuevo es un área ubicada entre los departamentos de Arauca, Casanare y Boyacá, la cual está concesionada para que la empresa Hocol (filial de Ecopetrol) realice trabajos de exploración en esta área. Las comunidades indígenas y campesinas se han manifestado en contra de este proyecto de exploración, puesto que este bloque se traslapa con resguardos indígenas de la comunidad U'wa, además, pone en riesgo las zonas con funcion amortiguadora de los PNN El Cocuy y Pisba. ",
+    "departamentos": [
+      "Casanare",
+      "Arauca"
+    ],
+    "municipios": [
+      "Tame",
+      "Sácama",
+      "Támara",
+      "Hato Corozal",
+      "Paz de Ariporo",
+      "Yopal"
+    ],
+    "tipos": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "actores": [
+      "Gremios y empresas",
+      "Autoridades ambientales",
+      "Comunidades campesinas",
+      "Comunidades indígenas"
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "Desencuentro entre comunidades campesinas y empresas agrícolas y petroleras por accesos y abastecimiento de agua",
+    "descripcion": "En el departamento de Casanare se han venido presentando denuncias por parte de las comunidades campesinas, especialmente, las que se ubican aguas abajo, pues afirman que las empresas dedicadas al cultivo agroindustrial de palma africana, de arroz y las empresas petroleras captan una gran cantidad de agua para sus actividades económicas. La captación y utilización de este recurso es tan grande que deja a las comunidades  sin la oportunidad de acceder al agua, especialmente en épocas secas. Durante las épocas secas se han presentado episodios donde muere una gran cantidad de fauna doméstica y silvestre debido a la escasez del líquido vital.",
+    "departamentos": [
+      "Casanare"
+    ],
+    "municipios": [
+      "Yopal",
+      "Orocué"
+    ],
+    "tipos": [
+      "T1",
+      "T3"
+    ],
+    "actores": [
+      "Gremios y empresas",
+      "Comunidades campesinas"
+    ]
+  },
+  {
+    "id": 16,
+    "nombre": "Desencuentro entre autoridades ambientales, comunidades campesinas y empresas agrícolas por uso y conservación del río Bita",
+    "descripcion": "En 2018 se estableció una figura jurídica de protección para el río Bita, anexándolo a los sitios RAMSAR de Colombia. Por tal motivo, se ha elaborado un Plan de Manejo de la Cuenca del río Bita para promover su conservación y preservación de manera participativa. En este contexto, surgen conflictos relacionados con la restricción o regulación de actividades económicas en la cuenca del Río Bita como la pesca. De esta manera, el conflicto latente tiene que ver con visiones encontradas sobre la cuenca de este río, pues si bien es importante su conservación, también es una fuente de recursos naturales para desarrollar actividades productivas.\n",
+    "departamentos": [
+      "Vichada"
+    ],
+    "municipios": [
+      "La Primavera",
+      "Puerto Carreño"
+    ],
+    "tipos": [
+      "T2",
+      "T3"
+    ],
+    "actores": [
+      "Comunidades locales",
+      "Autoridades ambientales",
+      "Comunidades campesinas"
+    ]
+  },
+  {
+    "id": 17,
+    "nombre": "Desencuentro entre comunidades indígenas y empresas desarrolladoras de proyectos por visiones sobre la gestión y conservación de la selva Matavén",
+    "descripcion": "Desde el año 2017 inició en la selva Matavén un proyecto de REDD+ para la compensación económica a cambio de la preservación y conservación de la selva. Esto a través del mecanismo del mercado de carbono, en donde se compran y venden bonos de carbono con el fin de conservar bosques sin comprometer el desarrollo económico. Allí  habitan diferentes comunidades indígenas, las cuales se organizan en torno a la figura del Resguardo Único Selva Matavén. Estas comunidades están involucradas en el proyecto de REDD+, contemplando su participación como protectoras del bosque y beneficiarias de los proyectos económicos y sociales derivados del proyecto de REDD+.\nLa disputa radica entre la visión desarrollista y economicista de quienes impulsan el proyecto REDD+, quienen tienen desencuentros con las visiones más holísticas y armónicas de las comunidades indígenas, pues a menudo sus conocimientos y saberes culturales no son tomados en cuenta a la hora de adelantar proyectos de conservación y protección de la selva porque en estos proyectos priman los saberes científicos y técnicos en las consideraciones y valoraciones que se hace sobre la selva.",
+    "departamentos": [
+      "Vichada"
+    ],
+    "municipios": [
+      "Cumaribo \n"
+    ],
+    "tipos": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "actores": [
+      "Organizaciones sociales y ambientales y ONG",
+      "Sociedad civil",
+      "Comunidades indígenas"
+    ]
+  },
+  {
+    "id": 18,
+    "nombre": "Desencuentro entre comunidades campesinas y autoridades ambientales por uso y conservación del territorio, derivado del control y vigilancia de las activiades ganaderas en las áreas de sistemas de parques nacionales y parques regionales",
+    "descripcion": "El 07 de abril del 2022 la Procuraduria de la Nación emitió la directiva 006 para el control y vigilancia de las actividades ganaderas de las áreas de parques naturales nacionales, y el 02 de mayo, el ICA emitió la resolución 7067 por la cual estableció medidas encaminadas a la cancelación del registro sanitario de predios pecuarios con actividades ganaderas en las áreas del sistema de parques nacionales y regionales; además de la suspensión a la vacunación contra la fiebre aftosa a las cabezas de ganado que se encuentren en estas áreas protegidas. Este conflicto se da por las diferencias entre las visiones sobre el territorio, en donde, las instituciones gubernamentales tienen una visión conservacionista, mientras que los campesinos tienen una visión de producción económica para lograr el sustento.",
+    "departamentos": [
+      "Vichada"
+    ],
+    "municipios": [
+      "Cumaribo"
+    ],
+    "tipos": [
+      "T1",
+      "T3"
+    ],
+    "actores": [
+      "Entidades de control",
+      "Autoridades ambientales",
+      "Comunidades campesinas"
+    ]
+  },
+  {
+    "id": 19,
+    "nombre": "Desencuentro entre comunidades indígenas y empresas agricolas por el uso y conservación de las sabanas de la altillanura de Vichada",
+    "descripcion": "En el marco de la economía sostenible se insertaron en el territorio cuatro tipos de industrias agro o verdes: los monocultivos para biocombustibles, los monocultivos reverdecidos para la captación de CO2, la venta de bonos de carbono para los mercados globales de CO2 y finalmente las agroindustrias de arroz, soya y maíz, entre otras. Estos diferentes tipos de agroindustria han modificado el paisaje, causando diferentes tipos de impactos socioecológicos (acaparamiento de recursos naturales como el agua y su contaminación por los residuos de las industrias). A nivel étnico y cultural, las actividades de la agroindustria han impactado la soberanía alimentaria de las comunidades de la etnia Sikuani, pues han cercado el territorio, obstaculizando que las comunidades Sikuani puedan acceder a los alimentos que consumen de acuerdo a su cosmovisión. ",
+    "departamentos": [
+      "Vichada"
+    ],
+    "municipios": [
+      "Cumaribo",
+      "Puerto Carreño"
+    ],
+    "tipos": [
+      "T1",
+      "T3"
+    ],
+    "actores": [
+      "Gremios y empresas",
+      "Comunidades indígenas"
+    ]
+  },
+  {
+    "id": 20,
+    "nombre": "Desencuentro entre comunidades indigenas y autoridades ambientales por uso y conservación del territorio derivado de asentamientos de inmigrantes al interior de áreas protegidas",
+    "descripcion": "Desde el año 2021 se viene aumentando la migración de población indígena proveniente de Venezuela huyendo a causa del conflicto armado que se ha desatado entre actores armados. Estas poblaciones han migrado de forma masiva, levantando asentamientos ilegales en áreas protegidas con riesgo de inundación. Se presenta un disputa entre la población migrante y las autoridades ambientales, pues al estar ocupando áreas protegidas, las autoridades deben concertar con la población migrante para que se retiren de las áreas protegidas.",
+    "departamentos": [
+      "Vichada"
+    ],
+    "municipios": [
+      "Cumaribo",
+      "Puerto Carreño"
+    ],
+    "tipos": [
+      "T2",
+      "T3"
+    ],
+    "actores": [
+      "Población migrante",
+      "Autoridades ambientales"
+    ]
+  },
+  {
+    "id": 21,
+    "nombre": "Desencuentro entre comunidades campesinas, productores agropecuarios, acaparadores de tierra, autoridades ambientales e instituciones del Estado por usos productivos y visiones de conservación del territorio en el Área de Manejo Especial de La Macarena.",
+    "descripcion": "El conflicto en el Área de Manejo Especial de la Macarena (AMEM) hunde sus raices en la lucha por la tierra de comunidades campesinas desplazadas por la violencia bipartidista a finales de la decada de 1940, que llevó a familias campesinas a colonizar territorios baldíos del sur del Meta. Los desencuentros se expresan en las tensiones generadas entre las formas de uso agropecuario y la regulación del uso, ocupación y aprovechamiento de la zona por parte del Estado en 1989, generando figuras de ordenamiento territorial para la conservación y protección de los recursos naturales han generado. La región de la Macarena es  una zona de alta importancia ambiental por lo que el Estado ha intentado protegerla, a través de la constitución de figuras de protección ambiental. Allí se creó primero una Reserva Biológica en 1948 y luego la AMEM en 1989, donde convergen cuatro Parques Naturales Nacionales (Macarena, Picachos, Sumapaz y Tinigua), tres Distritos de Manejo Integrado, una serie de Reservas Forestales Protectoras, Resguardos Indígenas y Zonas de Reserva Campesina, entre otras figuras. Las conflictividades generadas por la discrepancia entre los usos productivos y la conservación de este territorio se materializan en procesos de deforestación, judicialización de población local por delitos ambientales, manifestaciones y procesos organizativos para la concertación de esquemas de co-manejo de conservación. La Macarena ha sido también un frente de colonización espontánea, donde se desarrolla el conflicto armado y agrario colombiano, con una fuerte presencia de la guerrilla, en particular de las FARC. Las movilizaciones campesinas han sido frecuentes en la zona desde los años 70s hasta la actualidad, solicitando el acompañamiento integral del Estado para el desarrollo territorial, buscando la titulación de tierras, la constitución de zonas de reserva campesina y un proceso de erradicación manual, voluntaria y asistida de los cultivos de uso ilícito, en especial de la coca. ",
+    "departamentos": [
+      "Meta"
+    ],
+    "municipios": [
+      "La Macarena",
+      "Mesetas",
+      "Vista Hermosa",
+      "San Juan de Arama",
+      "Puerto Rico"
+    ],
+    "tipos": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "actores": [
+      "Entidades de control",
+      "Organizaciones sociales y ambientales y ONG",
+      "Sociedad civil",
+      "Actores armados",
+      "Autoridades ambientales",
+      "Comunidades campesinas"
+    ]
+  },
+  {
+    "id": 22,
+    "nombre": "Desencuentro entre comunidades locales del municipio de Acacías y Ecopetrol por las afectaciones en la calidad, cantidad y abastecimiento de agua asociadas a la explotación y exploración petrolera en el territorio",
+    "descripcion": "El conflicto socio-ambiental vivido en el municipio de Acacias debido a la explotación y exploración petrolera se manifiesta en mayor medida en las veredas La Esmeralda y Chichimene, en las cuales se han presentado las más importantes manifestaciones de la comunidad en contra de la contaminación del agua debido a la operación de las estaciones Castilla-Chichimene, del bloque petrolero Cubarral y el nuevo bloque adjudicado CPO9, ambos propiedad de la empresa colombiana ECOPETROL. En primer lugar, las comunidades de La Esmeralda denuncian que la llegada de las actividades de explotación petrolera dejó inservibles 38 jagüeyes o pozos profundos -forma en la que tradicionalmente los pobladores se han garantizado el acceso al agua- que tenían en sus casas, debido a la contaminación con sustancias asociadas a la extracción de hidrocarburos. El agua de estos pozos, que anteriormente era apta para el consumo humano, desde el año 2011 presenta coloración oscura, mal olor y presencia de partículas.  La contaminación del recurso hídrico se caracteriza por vertimientos a cuerpos de agua con presencia de contaminantes, contaminación atmosférica; generada por la quema de gas día y noche en la TEA, disminución del caudal; por la captación de agua para la extracción del crudo. Por lo que se puede establecer que existe debilidad en la ejecución de medidas de protección y conservación de los recursos naturales, principalmente en el recurso hídrico.",
+    "departamentos": [
+      "Meta"
+    ],
+    "municipios": [
+      "Acacías"
+    ],
+    "tipos": [
+      "T1",
+      "T3"
+    ],
+    "actores": [
+      "Gremios y empresas",
+      "Autoridades ambientales",
+      "Comunidades campesinas"
+    ]
+  },
+  {
+    "id": 23,
+    "nombre": "Desencuentro entre comunidades locales y Ecopetrol por oposición al desarrollo del pozo exploratorio Lorito 1 en río Humadea en Meta",
+    "descripcion": "El río Humadea en su paso por los municipios de Guamal y Castilla La Nueva ha sido históricamente un lugar de encuentro social y recreación, lo que lo convierte en el balneario más importante de la región, conocido como el Centro Poblado Turístico de Humadea y alrededor del cual desarrollan su actividad económica cientos de familias. El pozo exploratorio Lorito 1 cuya plataforma está ubicada a escasos 100 m del río Humadea, pertenece al bloque petrolero CPO9, Licenciado por la Autoridad Nacional de Licencias Ambientales ANLA a la empresa ECOPETROL en 2012 con jurisdicción en los municipios de Castilla, Guamal, Castilla La Nueva, Cubarral y San Martín. La plataforma fue construida en el año 2012, mediante la expropiación del predio a los habitantes del sector, pero la perforación del pozo no ha sido posible por el bloqueo de las comunidades para la entrada del taladro. El primer punto que ha generado conflicto tras la instalación de la plataforma Lorito 1, ha sido precisamente su cercanía con el río Humadea, que afecta la bocatoma que surte de agua al acueducto del Centro Poblado Turístico de Humadea -de gran cantidad de población flotante anual- y peligrosamente cerca de los tanques desarenadores del acueducto del municipio de Castilla La Nueva, además de afectar la zona de recarga hídrica perteneciente a la cuenca del rio Humadea, que surte los acuíferos del sector.",
+    "departamentos": [
+      "Meta"
+    ],
+    "municipios": [
+      "Guamal",
+      "Castilla la Nueva "
+    ],
+    "tipos": [
+      "T1",
+      "T3"
+    ],
+    "actores": [
+      "Gremios y empresas",
+      "Autoridades ambientales",
+      "Comunidades campesinas"
+    ]
+  },
+  {
+    "id": 24,
+    "nombre": "Desencuentro entre comunidades locales y petroleras por su disfrute del recurso hídrico y el paisaje, y el desarrollo de proyectos petroleros",
+    "descripcion": "En el departamento del Meta, las actividades petroleras comenzaron antes de los 90s. Sin embargo, cuando los proyectos exploratorios comenzaron a tocar el piedemonte llanero a partir de 2010, las comunidades de los municipios de Acacías, Castilla la Nueva, Cumaral, Cubarral, Guamal, San Martin y Villavicencio, se manifestaron en contra de estos procesos por dos razones: la primera porque en el piedemonte se realiza la recarga hídrica de los acueductos municipales, veredales y de los distritos de riego, servicio que resultaria afectado con el desarrollo de los proyectos petroleros; la segunda razón se atribuía a los antecedentes de las múltiples afectaciones que ha ocasionado la actividad petrolera en la parte plana de los municipios de Acacías y Castilla la Nueva con el proyecto Bloque Cubarral.",
+    "departamentos": [
+      "Meta"
+    ],
+    "municipios": [
+      "Acacías",
+      "Castilla la Nueva"
+    ],
+    "tipos": [
+      "T1",
+      "T3"
+    ],
+    "actores": [
+      "Comunidades locales",
+      "Gremios y empresas"
+    ]
+  },
+  {
+    "id": 25,
+    "nombre": "Desencuentro entre comunidades campesinas e indígenas con la petrolera Emerald Energy  por impactos ambientales de la actividad extractiva en la zona de los Pozos",
+    "descripcion": "Este conflicto socioambiental está asociado a los reclamos ambientales y sociales por parte de comunidades campesinas e indígenas de San Vicente del Caguán y de La Macarena, asociados a la actividad petrolera y los impactos ambientales que genera. Este desencuentro se relaciona con la contaminación de fuentes hídricas, la exigencia de inversión vial y la falta de proyectos productivos. La tensión entre campesinos y la petrolera ha estado atravesada por las denuncias de  infracciones ambientales —como la captación de aguas no autorizada, vertimiento de aguas residuales en quebradas cercanas al proyecto, deforestación y quemas a cielo abierto para construir locaciones no autorizadas— y el incumplimiento de las licencias ambientales, del Plan de Manejo Ambiental y de los Programas de Beneficio a las Comunidades.",
+    "departamentos": [
+      "Meta",
+      "Caquetá"
+    ],
+    "municipios": [
+      "La Macarena",
+      "San Vicente del Caguán"
+    ],
+    "tipos": [
+      "T1",
+      "T3"
+    ],
+    "actores": [
+      "Gremios y empresas",
+      "Autoridades ambientales",
+      "Comunidades campesinas",
+      "Comunidades indígenas"
+    ]
+  },
+  {
+    "id": 26,
+    "nombre": "Desencuentro por el uso y apropiación de territorios indígenas para desarrollar actividades agroindustriales",
+    "descripcion": "En Mapiripán los conflictos socioambientales están asociados a la expansión de la agroindustria y el control de tierras productivas,  expansión que ha sido beneficiada por el despojo de tierras cometido por grupos paramilitares. El crecimiento del monocultivo de palma de aceite en el municipio, ha influido en la pérdida de  biodiversidad, la afectación de la calidad del suelo y el deterioro de ecosistemas de sabanas, morichales y cuerpos de agua como el caño Yamú y el sistema lagunar Las Toninas, así como la vulneración de territorialidades de pueblos indígenas. Entre los desencuentros socioambientales, se destaca el conflicto entre la empresa de palma de aceite Poligrow y las comunidades indígenas Sikuani y Jiw, quienes han perdido acceso a zonas sagradas de su territorio, han presentado afectaciones en sus modos de subsistencia relacionadas al deterioro de sus prácticas de caza y pesca,  así como escasez y contaminación del agua, y el padecimiento de violencias derivadas del conflicto armado. ",
+    "departamentos": [
+      "Meta"
+    ],
+    "municipios": [
+      "Mapiripán "
+    ],
+    "tipos": [
+      "T1",
+      "T3"
+    ],
+    "actores": [
+      "Gremios y empresas",
+      "Actores armados",
+      "Comunidades indígenas"
+    ]
+  },
+  {
+    "id": 27,
+    "nombre": "Desencuentro por el uso y obtención de tierras, asociado al crecimiento de las agroindustrias, entre comunidad campesina e indígena Sikuani con grandes propietarios de tierra (empresas agropecuarias, terratienientes, hacendados, menonitas)",
+    "descripcion": "La constante extensión agroindustrial ha sido causante del aumento de deforestación sobre el territorio, el desplazamiento de grupos indígenas, desplazamiento de campesinado, y pérdidas importantes en la biodiversidad, macro ecosistemas y micro ecosistemas. Se puede concluir que el territorio cuenta con varios conflictos por uso de suelos entre los que podemos nombrar la sobreutilización, la demanda no disponible, los proyectos productivos cerca a cuerpos de agua y finalmente el resaltante conflicto de la subutilización de suelos que es el más representativo de la zona, abarcando un total de 1'020.762 hectáreas involucradas en este, que equivalen a un 59% del territorio.",
+    "departamentos": [
+      "Meta"
+    ],
+    "municipios": [
+      "Puerto Gaitán"
+    ],
+    "tipos": [
+      "T1",
+      "T3"
+    ],
+    "actores": [
+      "Gremios y empresas",
+      "Comunidades campesinas",
+      "Comunidades indígenas"
+    ]
+  },
+  {
+    "id": 28,
+    "nombre": "Desencuentro por la gestión territorial y conservación de recursos y el desarrollo de actividades agroindustriales y de hidrocarburos",
+    "descripcion": "El conflicto socioambiental de San Martín se caracteriza por el desencuentro entre la agroindustria de palma y el sector de hidrocarburos con la comunidad local, en razón de la transformación del paisaje llanero y como resultado del cambio de uso del suelo y la distribución desigual de cultivos tradicionales de pan coger, asociada a la creciente deforestación para la expansión de cultivos de palma y la exploración de hidrocarburos. Este desencuentro, ha tenido como consecuencias la afectación de fuentes hídricas como el Caño Camoa y la generación de sequías en el territorio. A su vez, los pobladores San Martín, en especial aquellos del sector ganadero tradicional,  han sufrido el desplazamiento y la violencia armada de grupos paramilitares, prácticas que han fomentado otras configuraciones territoriales donde la población local ve con preocupación la sostenibilidad de sus modos de vida y la conservación de sus ecosistemas. ",
+    "departamentos": [
+      "Meta"
+    ],
+    "municipios": [
+      "San Martín"
+    ],
+    "tipos": [
+      "T1",
+      "T3"
+    ],
+    "actores": [
+      "Comunidades locales",
+      "Gremios y empresas",
+      "Actores armados"
+    ]
+  }
+]

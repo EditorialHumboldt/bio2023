@@ -1,0 +1,10 @@
+.map-filters {
+  margin-top: 2rem;
+  padding: 10px;
+  background-color: rgba(0,0,0,.35);
+  border-radius: 8px;
+}
+.bg-2023-102-humedale {
+  background: #1a1b1f  url(https://reporte.humboldt.org.co/assets/img/2023/1/102/bio2023-201-fondo-humedales.jpg) no-repeat center center;
+  background-size: cover;
+}

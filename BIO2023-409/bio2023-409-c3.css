@@ -1,0 +1,118 @@
+h2{
+    display: flex;
+    gap: 10px;
+}
+h5 {
+    text-align: center;
+    font-weight: 500;
+    margin-top: 50px;
+}
+.itemicon{
+    text-align: center;
+    flex: 1;
+}
+.iconosredondos {
+    display: flex;
+    gap: 10px;
+    margin-top: 50px;
+}
+
+.indicacionescl {
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.circulo{
+    text-align: center;  
+}
+.circulo {
+   
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+}
+.cuadrados{
+    width: 20px;
+    height: 20px;
+    
+}
+.itencolor {
+    display: flex;
+    gap: 10px;
+ }
+
+ .amarillo {
+    background: #FECA2F;
+ }
+ .naranja{
+    background: #EB7021;
+ }
+ .rojo {
+    background: #AC1315;
+ }
+ .verde {
+    background: #1D6B70;
+ }
+ .verdeclaro {
+    background: #A3CD94;
+ }
+ .grafico {
+    height: 400px;
+ }
+
+ .icon-grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: fit-content; /* O un ancho fijo si prefieres */
+    gap: 10px; /* espacio entre íconos */
+    max-width: 120px; /* ajusta para que sean dos columnas */
+    margin-top: 200px;
+  }
+  
+  .icon-grid img {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+  }
+
+  .col-dt-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ 
+ 
+.container.padding-1 {
+   padding-bottom: 400px !important;
+    position: relative;
+ 
+    
+}
+ 
+.container::after {
+    content: "";         /* Inserta contenido vacío */
+    display: table;      /* Genera un "bloque" de tipo table */
+    clear: both;         /* Limpia los floats a izquierda y derecha */
+  }
+
+.bac3 {
+    position: relative;
+    z-index: 0;
+  }
+  
+.bac3::before {
+    content: "";
+    position: absolute; /* O absolute si prefieres */
+    bottom:  0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url(https://reporte.humboldt.org.co/assets/img/2023/4/409/bio2023-409-yopal2.png) no-repeat bottom;
+    background-size: contain;
+    opacity: 0.7; /* Cambia este valor según lo que necesites */
+    z-index: -1;
+    pointer-events: none; /* Para que no bloquee clics */
+  }

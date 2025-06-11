@@ -1,0 +1,26 @@
+#bio2023-304-chart-1 {
+        position: relative;
+  	max-width: 640px;
+    }
+    #bio2023-304-chart-1 > label {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+    }
+    #bio2023-304-chart-1 .hotspot  img{
+       margin: 0;
+       width: 240px;
+    }
+#bio2023-304-chart-1 .hotspot:nth-child(1) {
+	top: 35%;
+  	left: 8%;
+}
+#bio2023-304-chart-1 .hotspot:nth-child(2) {
+	top: 65%;
+  	right: 8%;
+}
+#bio2023-304-chart-1 .hotspots-container .hotspot .hotspot-content {
+	background: #ffffff;
+  border-radius: 100%;
+  box-shadow: 0 0 15px rgba(0,0,0,.4);
+}

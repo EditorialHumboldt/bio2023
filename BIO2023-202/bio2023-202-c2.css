@@ -1,0 +1,56 @@
+.bg-2023-202a {
+background: #dbd7cc url(https://reporte.humboldt.org.co/assets/img/2023/2/202/bio2023-202-fondo-agricultura.jpg) no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.escenario {
+	display: flex;
+  	flex-direction: column;
+  	position: relative;
+  justify-content: flex-end;
+  text-align:left;
+  height: calc(100vh - 340px);
+}
+.escenario div {
+  position: absolute;
+  right: 0;
+  left: min(150px, 20%);
+  top: 0;
+  bottom: 70px;
+}
+.escenario div img {
+  margin: 0;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  object-fit:contain;
+  top: 0;
+  right: 0;
+}
+.escenario div img:first-child {
+  z-index: 2;
+}
+.mapa-col {
+  position:absolute;
+  top: 20px;
+  left: 20px;
+  width: min(50vw, 200px);
+  height: auto;
+}
+.tabs-2023-202 {
+  margin: 24px auto;
+  width: max(300px, 66%);
+}
+.tab-content {
+background-color: rgba(0,0,0,.6);
+  color: white;
+}
+.tab-content h4 {
+  font-weight: bold;
+  margin: 0;
+}
+.tab.active {
+	background-color: #F3B121;
+  border-color: #F3B121;
+  color: #000;
+}

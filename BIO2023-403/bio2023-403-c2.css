@@ -1,0 +1,59 @@
+.maco {
+     background: url(https://reporte.humboldt.org.co/assets/img/2023/4/403/bio2023-403-plantasiones-palma.png); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: right;
+  background-color:#fff!important;
+    
+}
+.leyenda {
+    padding: 10px;
+    width: fit-content;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+  }
+.item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .color {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+ 
+  }
+  
+  .bosque-ripario {
+    background-color: #3a772a;
+  }
+
+ .pastizal {
+    background-image: url(https://reporte.humboldt.org.co/assets/img/2023/4/403/bio2023-403-caja-indicacion-pastizal.png);
+       background-size: cover;/* patrón simulado */
+  }
+   .humedal {
+    background-color: #ade0f3;
+  }
+  
+  .bosque-mixto {
+    background-color: #f2c200;
+  }
+  
+  .plantacion-forestal {
+    background-color: #1f5248;
+  }
+  
+  .poca-vegetacion {
+    background-color: #fdfcf0;
+    background-image: repeating-linear-gradient(135deg, #a38f6c 0, #a38f6c 2px, transparent 2px, transparent 6px);
+  }
+  
+  .palma-aceite {
+    background-color: #f0f0f0;
+  }
+  .imagen {
+    max-width: 85%;
+}

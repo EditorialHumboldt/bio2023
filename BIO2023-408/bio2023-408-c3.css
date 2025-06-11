@@ -1,0 +1,14 @@
+.map-filters i {
+	font-style: normal;
+  	display: inline-block;
+  	padding: 2px 4px;
+  	color: white;
+  	font-weight: 600;
+}
+.map-container {
+max-width: 100%;
+}
+.center-map-408 {
+display: flex;
+    justify-content: center;
+}

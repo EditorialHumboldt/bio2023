@@ -1,0 +1,174 @@
+{
+    "chart_1": [
+        {
+            "hectareas": "10000-20000",
+            "reservas": 1
+        },
+        {
+            "hectareas": "4001-6500",
+            "reservas": 2
+        },
+        {
+            "hectareas": "1001-4000",
+            "reservas": 11
+        },
+        {
+            "hectareas": "501-1000",
+            "reservas": 7
+        },
+        {
+            "hectareas": "201-500",
+            "reservas": 4
+        },
+        {
+            "hectareas": "101-200",
+            "reservas": 1
+        },
+        {
+            "hectareas": "11-100",
+            "reservas": 6
+        },
+        {
+            "hectareas": "0-10",
+            "reservas": 4
+        }
+    ],
+    "chart_2": [
+        {
+            "nombre": "Rancho Camaná",
+            "ha": 1.7
+        },
+        {
+            "nombre": "Nakua",
+            "ha": 4.39
+        },
+        {
+            "nombre": "Kaliawirinae",
+            "ha": 4.2
+        },
+        {
+            "nombre": "La Esperanza",
+            "ha": 8.09
+        },
+        {
+            "nombre": "S.O.S Río Guaitiquia",
+            "ha": 10.4
+        },
+        {
+            "nombre": "Cosmogénesis",
+            "ha": 15
+        },
+        {
+            "nombre": "El Toruno",
+            "ha": 13
+        },
+        {
+            "nombre": "La Esmeralda",
+            "ha": 30.8
+        },
+        {
+            "nombre": "La Reseda",
+            "ha": 80.5
+        },
+        {
+            "nombre": "Villa Aurora",
+            "ha": 80.6
+        },
+        {
+            "nombre": "Rey Zamuro",
+            "ha": 150
+        },
+        {
+            "nombre": "Finca La Reserva",
+            "ha": 316
+        },
+        {
+            "nombre": "Guayabero Cocodrilo",
+            "ha": 343
+        },
+        {
+            "nombre": "Las Unamas",
+            "ha": 350
+        },
+        {
+            "nombre": "Serranías de Casa Blanca",
+            "ha": 404
+        },
+        {
+            "nombre": "La Culebra",
+            "ha": 685
+        },
+        {
+            "nombre": "La Palmita",
+            "ha": 652
+        },
+        {
+            "nombre": "Aves D’Jah",
+            "ha": 657
+        },
+        {
+            "nombre": "El Torreño",
+            "ha": 993
+        },
+        {
+            "nombre": "Chaqueva",
+            "ha": 962
+        },
+        {
+            "nombre": "Mata Redonda",
+            "ha": 1553
+        },
+        {
+            "nombre": "La Esperanza 1 y 2",
+            "ha": 1600
+        },
+        {
+            "nombre": "Mururito",
+            "ha": 1700
+        },
+        {
+            "nombre": "Simaruba",
+            "ha": 1328
+        },
+        {
+            "nombre": "La Pedregoza",
+            "ha": 1294
+        },
+        {
+            "nombre": "Canta Claro",
+            "ha": 1378
+        },
+        {
+            "nombre": "Wakuinali",
+            "ha": 3332
+        },
+        {
+            "nombre": "Pitalito",
+            "ha": 3202
+        },
+        {
+            "nombre": "Chaviripa",
+            "ha": 2709
+        },
+        {
+            "nombre": "Irosebia",
+            "ha": 2588
+        },
+        {
+            "nombre": "La Gloria",
+            "ha": 2563
+        },
+        {
+            "nombre": "Las Delicias",
+            "ha": 4141
+        },
+        {
+            "nombre": "Bojonawi",
+            "ha": 4432
+        },
+        {
+            "nombre": "Núcleo de reservas AKAE",
+            "ha": 19829
+        }
+    ]
+}

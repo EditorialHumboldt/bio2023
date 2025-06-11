@@ -1,0 +1,87 @@
+body {
+    font-family: Rubik, Arial, sans-serif;
+    text-align: center;
+    background: #DBD7CC;
+}
+.tooltip {
+    position: absolute;
+    background-color: #2d3a43 !important;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 14px;
+    display: none;
+    pointer-events: none;
+    font-weight: 400;
+}
+.bubble-graph-container  .node {
+    stroke-width: 1px;
+    stroke: white;
+    cursor: pointer;
+    opacity: 0.65;
+}
+.bubble-graph-container g > .node:first-child {
+    fill: none;
+    stroke: none;
+    pointer-events: none !important;
+}
+
+.bubble-graph-container .label {
+    text-anchor: middle;
+    fill: #2d3a43;
+    pointer-events: none;
+    dominant-baseline: hanging; 
+}
+
+.bubble-graph-container svg {
+    background-color: rgba(255, 255, 255, 0.15);
+    overflow: hidden;
+    border-radius: 100%;
+}
+.bubble-graph-container {
+    position: relative;
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#bio2023-101-chart_1 {
+    background-image: url(fondo-animales-101.svg)
+}
+#bio2023-101-chart_2 {
+    background-image: url(fondo-animales-101-2.svg)
+}
+
+#bio2023-101-chart_3 text{
+    
+    pointer-events: none;
+    
+}
+#bio2023-101-chart_3 circle {
+    mix-blend-mode: multiply;
+}
+#bio2023-101-chart_3 svg {
+    overflow: visible;
+}
+#bio2023-101-chart_4 svg {
+    overflow: visible;
+}
+#bio2023-101-chart_4 .legend {
+    max-width: 500px;
+    margin: 0 auto;
+}
+#chart_1, #chart_2 {
+    max-width: 700px;
+    margin: 0 auto;
+    position: relative;
+}
+#chart_3 {
+    max-width: 500px;
+    margin: 0 auto;
+    position: relative;
+}
+#chart_4 {
+    max-width: 400px;
+    margin: 0 auto;
+    position: relative;
+}
